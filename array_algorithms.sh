@@ -1,4 +1,4 @@
-# #!/bin/bash
+#!/bin/bash
 
 # Create a array of 20 elements of random odd and even numbers
 NUMBERS=(7 2 2 2 2 2 4 6 8 10 11 11 13 11 15 17 18 20 19 16)
@@ -33,7 +33,7 @@ function print_sum() {
 
 # Return number with highest and lowest frequency
 function lowest_highest_freq() {
-  # Create an associative array - to serve the purpose of a hash map
+  # Create an associative array for fast lookup
   declare -A numbers_map
   COUNTER=1
   # Iterate through given array and populate the associative array
