@@ -29,14 +29,6 @@ echo "Creating private subnet"
 # Create private subnet
 gcloud compute networks subnets create $PRIVATE_SUBNET_NAME --network=$NETWORK_NAME --range=$PRIVATE_SUBNET_IP_RANGE --region=$PRIVATE_SUBNET_REGION --enable-private-ip-google-access
 
-echo "Creating router for private subnet"
-# Create router for private subnet
-gcloud compute routers create $ROUTER_NAME --network=$NETWORK_NAME --region=$PRIVATE_SUBNET_REGION
-
-echo "Creating NAT for router to private subnet"
-# Create NAT for private subnet
-gcloud compute routers nats create $NAT_NAME --router=$ROUTER_NAME --router-region=$PRIVATE_SUBNET_REGION --auto-allocate-nat-external-ips --nat-custom-subnet-ip-ranges=$PRIVATE_SUBNET_NAME
-
 echo "vpc creation complete"
 
 # Create instances in public subnet
