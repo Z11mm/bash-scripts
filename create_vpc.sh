@@ -32,7 +32,7 @@ echo "Creating router for private subnet"
 # Create router for private subnet
 gcloud compute routers create $ROUTER_NAME --network=$NETWORK_NAME --region=$PRIVATE_SUBNET_REGION
 
-echo "Creating NAT for private subnet"
+echo "Creating NAT for router to private subnet"
 # Create NAT for private subnet
 gcloud compute routers nats create $NAT_NAME --router=$ROUTER_NAME --router-region=$PRIVATE_SUBNET_REGION --auto-allocate-nat-external-ips --nat-custom-subnet-ip-ranges=$PRIVATE_SUBNET_NAME
 
