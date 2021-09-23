@@ -19,6 +19,7 @@ gcloud compute networks create $NETWORK_NAME --subnet-mode=custom --bgp-routing-
 echo "Creating firewall rules"
 # Create firewall rules
 gcloud compute firewall-rules create ${FIREWALL_RULE_NAME}-allow-ssh --network $NETWORK_NAME --action allow --rules tcp:22,icmp --source-ranges 0.0.0.0/0
+gcloud compute firewall-rules create ${FIREWALL_RULE_NAME}-allow-http --network $NETWORK_NAME --action allow --rules tcp:80,8080 --source-ranges 0.0.0.0/0 --target-tags http-server
 
 echo "Creating public subnet"
 # Create public subnet
@@ -37,3 +38,9 @@ echo "Creating NAT for router to private subnet"
 gcloud compute routers nats create $NAT_NAME --router=$ROUTER_NAME --router-region=$PRIVATE_SUBNET_REGION --auto-allocate-nat-external-ips --nat-custom-subnet-ip-ranges=$PRIVATE_SUBNET_NAME
 
 echo "vpc creation complete"
+
+# Create instances in public subnet
+gcloud compute instances create public-vm --network=$NETWORK_NAME --subnet=$PUBLIC_SUBNET_NAME --zone=us-west2-a 
+
+# Create instances in private subnet
+gcloud compute instances create private-vm --network=$NETWORK_NAME --subnet=$PRIVATE_SUBNET_NAME --zone=us-west1-a --no-address
