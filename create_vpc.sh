@@ -40,7 +40,7 @@ gcloud compute routers nats create $NAT_NAME --router=$ROUTER_NAME --router-regi
 echo "vpc creation complete"
 
 # Create instances in public subnet
-gcloud compute instances create public-vm --network=$NETWORK_NAME --subnet=$PUBLIC_SUBNET_NAME --zone=us-west2-a 
+gcloud compute instances create public-vm --network=$NETWORK_NAME --subnet=$PUBLIC_SUBNET_NAME --zone=us-west2-a --tags=http-server
 
 # Create instances in private subnet
 gcloud compute instances create private-vm --network=$NETWORK_NAME --subnet=$PRIVATE_SUBNET_NAME --zone=us-west1-a --no-address
