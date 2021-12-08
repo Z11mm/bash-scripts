@@ -1,0 +1,1421 @@
+shd[1765035]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 16:32:35 gitlab-instance-1 sshd[1765050]: Unable to negotiate with 141.98.10.246 port 60360: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:32:45 gitlab-instance-1 sshd[1765072]: Unable to negotiate with 141.98.10.246 port 35704: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:32:55 gitlab-instance-1 sshd[1765087]: Unable to negotiate with 141.98.10.246 port 39276: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:33:05 gitlab-instance-1 sshd[1765105]: Unable to negotiate with 141.98.10.246 port 42850: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:33:16 gitlab-instance-1 sshd[1765127]: Unable to negotiate with 141.98.10.246 port 46422: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:33:26 gitlab-instance-1 sshd[1765151]: Unable to negotiate with 141.98.10.246 port 49996: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:33:37 gitlab-instance-1 sshd[1765170]: Unable to negotiate with 141.98.10.246 port 53566: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:33:48 gitlab-instance-1 sshd[1765190]: Unable to negotiate with 141.98.10.246 port 57146: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:34:00 gitlab-instance-1 sshd[1765212]: Unable to negotiate with 141.98.10.246 port 60722: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:34:11 gitlab-instance-1 sshd[1765228]: Unable to negotiate with 141.98.10.246 port 36062: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:34:22 gitlab-instance-1 sshd[1765251]: Unable to negotiate with 141.98.10.246 port 39628: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:34:34 gitlab-instance-1 sshd[1765271]: Unable to negotiate with 141.98.10.246 port 43208: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:34:45 gitlab-instance-1 sshd[1765293]: Unable to negotiate with 141.98.10.246 port 46780: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:34:57 gitlab-instance-1 sshd[1765311]: Unable to negotiate with 141.98.10.246 port 50358: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:35:09 gitlab-instance-1 sshd[1765331]: Unable to negotiate with 141.98.10.246 port 53934: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:35:20 gitlab-instance-1 sshd[1765351]: Unable to negotiate with 141.98.10.246 port 57508: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:35:32 gitlab-instance-1 sshd[1765372]: Unable to negotiate with 141.98.10.246 port 32852: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:35:44 gitlab-instance-1 sshd[1765393]: Unable to negotiate with 141.98.10.246 port 36426: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:35:55 gitlab-instance-1 sshd[1765412]: Unable to negotiate with 141.98.10.246 port 40002: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:36:07 gitlab-instance-1 sshd[1765434]: Unable to negotiate with 141.98.10.246 port 43574: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:36:19 gitlab-instance-1 sshd[1765455]: Unable to negotiate with 141.98.10.246 port 47150: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:36:31 gitlab-instance-1 sshd[1765473]: Unable to negotiate with 141.98.10.246 port 50742: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:36:43 gitlab-instance-1 sshd[1765495]: Unable to negotiate with 141.98.10.246 port 54300: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:36:55 gitlab-instance-1 sshd[1765514]: Unable to negotiate with 141.98.10.246 port 57878: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:38:10 gitlab-instance-1 sshd[1765639]: Received disconnect from 92.255.85.37 port 28666:11: Bye Bye [preauth]
+Dec  5 16:38:10 gitlab-instance-1 sshd[1765639]: Disconnected from authenticating user root 92.255.85.37 port 28666 [preauth]
+Dec  5 16:47:19 gitlab-instance-1 sshd[1766535]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 16:47:26 gitlab-instance-1 sshd[1766543]: Unable to negotiate with 141.98.10.63 port 53122: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 16:52:00 gitlab-instance-1 sshd[1766981]: Received disconnect from 176.111.173.237 port 8266:11: Bye Bye [preauth]
+Dec  5 16:52:00 gitlab-instance-1 sshd[1766981]: Disconnected from authenticating user root 176.111.173.237 port 8266 [preauth]
+Dec  5 17:04:12 gitlab-instance-1 sshd[1768174]: Invalid user user from 176.111.173.237 port 47126
+Dec  5 17:04:13 gitlab-instance-1 sshd[1768174]: Received disconnect from 176.111.173.237 port 47126:11: Bye Bye [preauth]
+Dec  5 17:04:13 gitlab-instance-1 sshd[1768174]: Disconnected from invalid user user 176.111.173.237 port 47126 [preauth]
+Dec  5 17:14:05 gitlab-instance-1 sshd[1769147]: Invalid user ftpuser from 92.255.85.237 port 28876
+Dec  5 17:14:05 gitlab-instance-1 sshd[1769147]: Received disconnect from 92.255.85.237 port 28876:11: Bye Bye [preauth]
+Dec  5 17:14:05 gitlab-instance-1 sshd[1769147]: Disconnected from invalid user ftpuser 92.255.85.237 port 28876 [preauth]
+Dec  5 17:17:01 gitlab-instance-1 CRON[1769455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 17:17:01 gitlab-instance-1 CRON[1769455]: pam_unix(cron:session): session closed for user root
+Dec  5 17:29:01 gitlab-instance-1 sshd[1770625]: Invalid user ftpuser from 92.255.85.37 port 49910
+Dec  5 17:29:01 gitlab-instance-1 sshd[1770625]: Received disconnect from 92.255.85.37 port 49910:11: Bye Bye [preauth]
+Dec  5 17:29:01 gitlab-instance-1 sshd[1770625]: Disconnected from invalid user ftpuser 92.255.85.37 port 49910 [preauth]
+Dec  5 17:40:48 gitlab-instance-1 sshd[1771782]: Invalid user ftpuser from 92.255.85.37 port 48634
+Dec  5 17:40:48 gitlab-instance-1 sshd[1771782]: Received disconnect from 92.255.85.37 port 48634:11: Bye Bye [preauth]
+Dec  5 17:40:48 gitlab-instance-1 sshd[1771782]: Disconnected from invalid user ftpuser 92.255.85.37 port 48634 [preauth]
+Dec  5 17:54:54 gitlab-instance-1 sshd[1773173]: Invalid user huawei from 92.255.85.237 port 61486
+Dec  5 17:54:55 gitlab-instance-1 sshd[1773173]: Received disconnect from 92.255.85.237 port 61486:11: Bye Bye [preauth]
+Dec  5 17:54:55 gitlab-instance-1 sshd[1773173]: Disconnected from invalid user huawei 92.255.85.237 port 61486 [preauth]
+Dec  5 18:01:41 gitlab-instance-1 sshd[1773833]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 18:02:36 gitlab-instance-1 sshd[1773925]: Unable to negotiate with 23.183.82.135 port 49414: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 18:08:30 gitlab-instance-1 sshd[1774507]: Received disconnect from 92.255.85.237 port 30288:11: Bye Bye [preauth]
+Dec  5 18:08:30 gitlab-instance-1 sshd[1774507]: Disconnected from authenticating user root 92.255.85.237 port 30288 [preauth]
+Dec  5 18:17:01 gitlab-instance-1 CRON[1775337]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 18:17:01 gitlab-instance-1 CRON[1775337]: pam_unix(cron:session): session closed for user root
+Dec  5 18:19:58 gitlab-instance-1 sshd[1775628]: Received disconnect from 92.255.85.237 port 58372:11: Bye Bye [preauth]
+Dec  5 18:19:58 gitlab-instance-1 sshd[1775628]: Disconnected from authenticating user root 92.255.85.237 port 58372 [preauth]
+Dec  5 18:31:34 gitlab-instance-1 sshd[1776745]: Received disconnect from 92.255.85.37 port 25640:11: Bye Bye [preauth]
+Dec  5 18:31:34 gitlab-instance-1 sshd[1776745]: Disconnected from authenticating user root 92.255.85.37 port 25640 [preauth]
+Dec  5 18:44:01 gitlab-instance-1 CRON[1777978]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 18:44:01 gitlab-instance-1 CRON[1777978]: pam_unix(cron:session): session closed for user root
+Dec  5 18:45:59 gitlab-instance-1 sshd[1778161]: Received disconnect from 92.255.85.237 port 46682:11: Bye Bye [preauth]
+Dec  5 18:45:59 gitlab-instance-1 sshd[1778161]: Disconnected from authenticating user root 92.255.85.237 port 46682 [preauth]
+Dec  5 18:51:44 gitlab-instance-1 sshd[1778736]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 18:58:58 gitlab-instance-1 sshd[1779436]: Received disconnect from 92.255.85.237 port 56836:11: Bye Bye [preauth]
+Dec  5 18:58:58 gitlab-instance-1 sshd[1779436]: Disconnected from authenticating user root 92.255.85.237 port 56836 [preauth]
+Dec  5 19:07:36 gitlab-instance-1 sshd[1780273]: error: kex_exchange_identification: read: Connection reset by peer
+Dec  5 19:12:40 gitlab-instance-1 sshd[1780772]: Received disconnect from 92.255.85.237 port 16196:11: Bye Bye [preauth]
+Dec  5 19:12:40 gitlab-instance-1 sshd[1780772]: Disconnected from authenticating user root 92.255.85.237 port 16196 [preauth]
+Dec  5 19:14:03 gitlab-instance-1 sshd[1780908]: Invalid user PlcmSpIp from 116.110.252.176 port 55642
+Dec  5 19:14:03 gitlab-instance-1 sshd[1780908]: Connection closed by invalid user PlcmSpIp 116.110.252.176 port 55642 [preauth]
+Dec  5 19:14:10 gitlab-instance-1 sshd[1780920]: Invalid user admin from 116.105.217.54 port 37974
+Dec  5 19:14:10 gitlab-instance-1 sshd[1780920]: Connection closed by invalid user admin 116.105.217.54 port 37974 [preauth]
+Dec  5 19:14:14 gitlab-instance-1 sshd[1780928]: Connection closed by authenticating user root 116.105.217.54 port 56828 [preauth]
+Dec  5 19:14:15 gitlab-instance-1 sshd[1780934]: Invalid user mailman from 116.110.252.176 port 37540
+Dec  5 19:14:15 gitlab-instance-1 sshd[1780934]: Connection closed by invalid user mailman 116.110.252.176 port 37540 [preauth]
+Dec  5 19:14:20 gitlab-instance-1 sshd[1780940]: Connection closed by authenticating user root 116.105.161.168 port 52446 [preauth]
+Dec  5 19:14:33 gitlab-instance-1 sshd[1780967]: Invalid user username from 116.110.252.176 port 60998
+Dec  5 19:14:33 gitlab-instance-1 sshd[1780967]: Connection closed by invalid user username 116.110.252.176 port 60998 [preauth]
+Dec  5 19:14:37 gitlab-instance-1 sshd[1780974]: Invalid user user1 from 116.110.99.109 port 47944
+Dec  5 19:14:37 gitlab-instance-1 sshd[1780974]: Connection closed by invalid user user1 116.110.99.109 port 47944 [preauth]
+Dec  5 19:14:38 gitlab-instance-1 sshd[1780977]: Invalid user one from 116.105.217.54 port 56986
+Dec  5 19:14:38 gitlab-instance-1 sshd[1780977]: Connection closed by invalid user one 116.105.217.54 port 56986 [preauth]
+Dec  5 19:14:40 gitlab-instance-1 sshd[1780983]: Invalid user admin from 116.105.217.54 port 43372
+Dec  5 19:14:41 gitlab-instance-1 sshd[1780983]: Connection closed by invalid user admin 116.105.217.54 port 43372 [preauth]
+Dec  5 19:14:41 gitlab-instance-1 sshd[1780985]: Invalid user admin from 116.110.252.176 port 36598
+Dec  5 19:14:42 gitlab-instance-1 sshd[1780985]: Connection closed by invalid user admin 116.110.252.176 port 36598 [preauth]
+Dec  5 19:14:47 gitlab-instance-1 sshd[1780998]: Invalid user manager from 116.110.252.176 port 54944
+Dec  5 19:14:47 gitlab-instance-1 sshd[1780998]: Connection closed by invalid user manager 116.110.252.176 port 54944 [preauth]
+Dec  5 19:14:48 gitlab-instance-1 sshd[1781000]: Invalid user music from 116.110.252.176 port 57042
+Dec  5 19:14:48 gitlab-instance-1 sshd[1781000]: Connection closed by invalid user music 116.110.252.176 port 57042 [preauth]
+Dec  5 19:14:48 gitlab-instance-1 sshd[1781006]: Connection closed by authenticating user root 116.105.217.54 port 39526 [preauth]
+Dec  5 19:14:52 gitlab-instance-1 sshd[1781015]: Invalid user system from 116.110.252.176 port 37154
+Dec  5 19:14:52 gitlab-instance-1 sshd[1781015]: Connection closed by invalid user system 116.110.252.176 port 37154 [preauth]
+Dec  5 19:14:54 gitlab-instance-1 sshd[1781023]: Invalid user ftp from 116.110.99.109 port 45438
+Dec  5 19:14:54 gitlab-instance-1 sshd[1781017]: Invalid user support from 116.110.252.176 port 49474
+Dec  5 19:14:54 gitlab-instance-1 sshd[1781023]: Connection closed by invalid user ftp 116.110.99.109 port 45438 [preauth]
+Dec  5 19:14:54 gitlab-instance-1 sshd[1781017]: Connection closed by invalid user support 116.110.252.176 port 49474 [preauth]
+Dec  5 19:14:57 gitlab-instance-1 sshd[1781026]: Connection closed by authenticating user root 116.110.252.176 port 41832 [preauth]
+Dec  5 19:14:58 gitlab-instance-1 sshd[1781033]: Connection closed by authenticating user root 116.110.252.176 port 46286 [preauth]
+Dec  5 19:14:58 gitlab-instance-1 sshd[1781035]: Invalid user shutdown from 116.110.252.176 port 51204
+Dec  5 19:14:58 gitlab-instance-1 sshd[1781035]: Connection closed by invalid user shutdown 116.110.252.176 port 51204 [preauth]
+Dec  5 19:14:59 gitlab-instance-1 sshd[1781038]: Invalid user upload from 116.110.252.176 port 56060
+Dec  5 19:15:00 gitlab-instance-1 sshd[1781038]: Connection closed by invalid user upload 116.110.252.176 port 56060 [preauth]
+Dec  5 19:15:01 gitlab-instance-1 sshd[1781037]: Invalid user admin from 116.110.252.176 port 57846
+Dec  5 19:15:01 gitlab-instance-1 sshd[1781037]: Connection closed by invalid user admin 116.110.252.176 port 57846 [preauth]
+Dec  5 19:15:03 gitlab-instance-1 sshd[1781046]: Invalid user service from 116.110.252.176 port 54050
+Dec  5 19:15:03 gitlab-instance-1 sshd[1781046]: Connection closed by invalid user service 116.110.252.176 port 54050 [preauth]
+Dec  5 19:15:03 gitlab-instance-1 sshd[1781052]: Invalid user admin from 116.110.99.109 port 55880
+Dec  5 19:15:03 gitlab-instance-1 sshd[1781052]: Connection closed by invalid user admin 116.110.99.109 port 55880 [preauth]
+Dec  5 19:15:04 gitlab-instance-1 sshd[1781054]: Invalid user ftpuser from 116.110.252.176 port 32888
+Dec  5 19:15:04 gitlab-instance-1 sshd[1781054]: Connection closed by invalid user ftpuser 116.110.252.176 port 32888 [preauth]
+Dec  5 19:15:09 gitlab-instance-1 sshd[1781061]: Connection closed by authenticating user root 116.105.161.168 port 41458 [preauth]
+Dec  5 19:15:09 gitlab-instance-1 sshd[1781067]: Invalid user jason from 116.105.161.168 port 47678
+Dec  5 19:15:09 gitlab-instance-1 sshd[1781067]: Connection closed by invalid user jason 116.105.161.168 port 47678 [preauth]
+Dec  5 19:15:10 gitlab-instance-1 sshd[1781069]: Invalid user test from 116.110.99.109 port 48250
+Dec  5 19:15:11 gitlab-instance-1 sshd[1781069]: Connection closed by invalid user test 116.110.99.109 port 48250 [preauth]
+Dec  5 19:15:12 gitlab-instance-1 sshd[1781077]: Invalid user tester from 116.105.217.54 port 42250
+Dec  5 19:15:13 gitlab-instance-1 sshd[1781077]: Connection closed by invalid user tester 116.105.217.54 port 42250 [preauth]
+Dec  5 19:15:16 gitlab-instance-1 sshd[1781098]: Invalid user test from 116.110.252.176 port 56142
+Dec  5 19:15:16 gitlab-instance-1 sshd[1781098]: Connection closed by invalid user test 116.110.252.176 port 56142 [preauth]
+Dec  5 19:15:19 gitlab-instance-1 sshd[1781104]: Invalid user ubnt from 116.110.252.176 port 42477
+Dec  5 19:15:19 gitlab-instance-1 sshd[1781104]: Connection closed by invalid user ubnt 116.110.252.176 port 42477 [preauth]
+Dec  5 19:15:22 gitlab-instance-1 sshd[1781111]: Invalid user admin from 116.110.252.176 port 33114
+Dec  5 19:15:22 gitlab-instance-1 sshd[1781111]: Connection closed by invalid user admin 116.110.252.176 port 33114 [preauth]
+Dec  5 19:15:27 gitlab-instance-1 sshd[1781117]: Invalid user admin from 116.110.252.176 port 57196
+Dec  5 19:15:27 gitlab-instance-1 sshd[1781117]: Connection closed by invalid user admin 116.110.252.176 port 57196 [preauth]
+Dec  5 19:15:29 gitlab-instance-1 sshd[1781125]: Invalid user tomcat from 116.105.217.54 port 36704
+Dec  5 19:15:29 gitlab-instance-1 sshd[1781125]: Connection closed by invalid user tomcat 116.105.217.54 port 36704 [preauth]
+Dec  5 19:15:32 gitlab-instance-1 sshd[1781131]: Invalid user ftpuser from 116.105.217.54 port 49824
+Dec  5 19:15:32 gitlab-instance-1 sshd[1781131]: Connection closed by invalid user ftpuser 116.105.217.54 port 49824 [preauth]
+Dec  5 19:15:32 gitlab-instance-1 sshd[1781133]: Invalid user xerox from 116.110.252.176 port 42448
+Dec  5 19:15:32 gitlab-instance-1 sshd[1781133]: Connection closed by invalid user xerox 116.110.252.176 port 42448 [preauth]
+Dec  5 19:15:33 gitlab-instance-1 sshd[1781139]: Invalid user testuser from 115.76.95.157 port 58202
+Dec  5 19:15:33 gitlab-instance-1 sshd[1781139]: Connection closed by invalid user testuser 115.76.95.157 port 58202 [preauth]
+Dec  5 19:15:33 gitlab-instance-1 sshd[1781142]: Invalid user user from 116.110.252.176 port 49010
+Dec  5 19:15:34 gitlab-instance-1 sshd[1781142]: Connection closed by invalid user user 116.110.252.176 port 49010 [preauth]
+Dec  5 19:15:36 gitlab-instance-1 sshd[1781145]: Invalid user RPM from 115.76.95.157 port 33454
+Dec  5 19:15:36 gitlab-instance-1 sshd[1781145]: Connection closed by invalid user RPM 115.76.95.157 port 33454 [preauth]
+Dec  5 19:15:39 gitlab-instance-1 sshd[1781156]: Invalid user guest from 116.110.252.176 port 55826
+Dec  5 19:15:39 gitlab-instance-1 sshd[1781156]: Connection closed by invalid user guest 116.110.252.176 port 55826 [preauth]
+Dec  5 19:15:50 gitlab-instance-1 sshd[1781173]: Invalid user user from 116.110.252.176 port 39684
+Dec  5 19:15:50 gitlab-instance-1 sshd[1781173]: Connection closed by invalid user user 116.110.252.176 port 39684 [preauth]
+Dec  5 19:15:57 gitlab-instance-1 sshd[1781189]: Invalid user 1234 from 116.110.252.176 port 55402
+Dec  5 19:15:58 gitlab-instance-1 sshd[1781189]: Connection closed by invalid user 1234 116.110.252.176 port 55402 [preauth]
+Dec  5 19:16:04 gitlab-instance-1 sshd[1781200]: Invalid user admin from 116.105.161.168 port 55880
+Dec  5 19:16:04 gitlab-instance-1 sshd[1781200]: Connection closed by invalid user admin 116.105.161.168 port 55880 [preauth]
+Dec  5 19:17:01 gitlab-instance-1 CRON[1781293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 19:17:01 gitlab-instance-1 CRON[1781293]: pam_unix(cron:session): session closed for user root
+Dec  5 19:21:41 gitlab-instance-1 sshd[1781741]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 19:22:08 gitlab-instance-1 sshd[1781784]: Unable to negotiate with 209.141.62.185 port 51614: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 19:22:44 gitlab-instance-1 sshd[1781840]: Unable to negotiate with 209.141.62.185 port 58984: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 19:23:17 gitlab-instance-1 sshd[1781894]: Unable to negotiate with 209.141.62.185 port 38116: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 19:23:51 gitlab-instance-1 sshd[1781954]: Unable to negotiate with 209.141.62.185 port 45478: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 19:24:02 gitlab-instance-1 sshd[1781970]: Invalid user user from 92.255.85.37 port 58394
+Dec  5 19:24:02 gitlab-instance-1 sshd[1781970]: Received disconnect from 92.255.85.37 port 58394:11: Bye Bye [preauth]
+Dec  5 19:24:02 gitlab-instance-1 sshd[1781970]: Disconnected from invalid user user 92.255.85.37 port 58394 [preauth]
+Dec  5 19:24:26 gitlab-instance-1 sshd[1782011]: Unable to negotiate with 209.141.62.185 port 52844: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 19:36:51 gitlab-instance-1 sshd[1783229]: Invalid user ftpuser from 92.255.85.37 port 31908
+Dec  5 19:36:51 gitlab-instance-1 sshd[1783229]: Received disconnect from 92.255.85.37 port 31908:11: Bye Bye [preauth]
+Dec  5 19:36:51 gitlab-instance-1 sshd[1783229]: Disconnected from invalid user ftpuser 92.255.85.37 port 31908 [preauth]
+Dec  5 19:49:03 gitlab-instance-1 sshd[1784425]: Received disconnect from 92.255.85.37 port 25858:11: Bye Bye [preauth]
+Dec  5 19:49:03 gitlab-instance-1 sshd[1784425]: Disconnected from authenticating user root 92.255.85.37 port 25858 [preauth]
+Dec  5 20:04:27 gitlab-instance-1 sshd[1785937]: Received disconnect from 176.111.173.237 port 31446:11: Bye Bye [preauth]
+Dec  5 20:04:27 gitlab-instance-1 sshd[1785937]: Disconnected from authenticating user root 176.111.173.237 port 31446 [preauth]
+Dec  5 20:11:05 gitlab-instance-1 sshd[1786584]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 20:14:56 gitlab-instance-1 sshd[1787018]: Received disconnect from 92.255.85.237 port 16210:11: Bye Bye [preauth]
+Dec  5 20:14:56 gitlab-instance-1 sshd[1787018]: Disconnected from authenticating user root 92.255.85.237 port 16210 [preauth]
+Dec  5 20:17:01 gitlab-instance-1 CRON[1787219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 20:17:01 gitlab-instance-1 CRON[1787219]: pam_unix(cron:session): session closed for user root
+Dec  5 20:20:01 gitlab-instance-1 sshd[1787510]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 20:20:19 gitlab-instance-1 sshd[1787555]: Unable to negotiate with 23.183.82.180 port 48418: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 20:21:32 gitlab-instance-1 sshd[1787673]: Unable to negotiate with 23.183.82.180 port 51792: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 20:27:17 gitlab-instance-1 sshd[1788228]: Received disconnect from 92.255.85.37 port 32604:11: Bye Bye [preauth]
+Dec  5 20:27:17 gitlab-instance-1 sshd[1788228]: Disconnected from authenticating user root 92.255.85.37 port 32604 [preauth]
+Dec  5 20:39:25 gitlab-instance-1 sshd[1789413]: Received disconnect from 92.255.85.237 port 28822:11: Bye Bye [preauth]
+Dec  5 20:39:25 gitlab-instance-1 sshd[1789413]: Disconnected from authenticating user root 92.255.85.237 port 28822 [preauth]
+Dec  5 20:44:16 gitlab-instance-1 sshd[1789899]: Invalid user facturalista from 94.232.46.202 port 46168
+Dec  5 20:44:17 gitlab-instance-1 sshd[1789899]: Connection closed by invalid user facturalista 94.232.46.202 port 46168 [preauth]
+Dec  5 20:53:29 gitlab-instance-1 sshd[1790779]: Received disconnect from 92.255.85.37 port 36510:11: Bye Bye [preauth]
+Dec  5 20:53:29 gitlab-instance-1 sshd[1790779]: Disconnected from authenticating user root 92.255.85.37 port 36510 [preauth]
+Dec  5 20:57:11 gitlab-instance-1 sshd[1791155]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 20:57:41 gitlab-instance-1 sshd[1791199]: Unable to negotiate with 209.141.47.245 port 35292: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 20:59:19 gitlab-instance-1 sshd[1791373]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 21:00:13 gitlab-instance-1 sshd[1791495]: Unable to negotiate with 23.183.81.249 port 46446: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 21:08:41 gitlab-instance-1 sshd[1792312]: Invalid user test from 92.255.85.37 port 56282
+Dec  5 21:08:41 gitlab-instance-1 sshd[1792312]: Received disconnect from 92.255.85.37 port 56282:11: Bye Bye [preauth]
+Dec  5 21:08:41 gitlab-instance-1 sshd[1792312]: Disconnected from invalid user test 92.255.85.37 port 56282 [preauth]
+Dec  5 21:17:01 gitlab-instance-1 CRON[1793139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 21:17:01 gitlab-instance-1 CRON[1793139]: pam_unix(cron:session): session closed for user root
+Dec  5 21:19:22 gitlab-instance-1 sshd[1793369]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 21:19:49 gitlab-instance-1 sshd[1793413]: Unable to negotiate with 209.141.47.245 port 48038: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 21:23:42 gitlab-instance-1 sshd[1793787]: Invalid user user from 92.255.85.237 port 43348
+Dec  5 21:23:42 gitlab-instance-1 sshd[1793787]: Received disconnect from 92.255.85.237 port 43348:11: Bye Bye [preauth]
+Dec  5 21:23:42 gitlab-instance-1 sshd[1793787]: Disconnected from invalid user user 92.255.85.237 port 43348 [preauth]
+Dec  5 21:32:41 gitlab-instance-1 sshd[1794678]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 21:37:36 gitlab-instance-1 sshd[1795141]: Invalid user user from 176.111.173.237 port 7876
+Dec  5 21:37:36 gitlab-instance-1 sshd[1795141]: Received disconnect from 176.111.173.237 port 7876:11: Bye Bye [preauth]
+Dec  5 21:37:36 gitlab-instance-1 sshd[1795141]: Disconnected from invalid user user 176.111.173.237 port 7876 [preauth]
+Dec  5 21:44:01 gitlab-instance-1 sshd[1795783]: Connection closed by 92.220.190.118 port 55707 [preauth]
+Dec  5 21:48:49 gitlab-instance-1 sshd[1796245]: Received disconnect from 92.255.85.37 port 40560:11: Bye Bye [preauth]
+Dec  5 21:48:49 gitlab-instance-1 sshd[1796245]: Disconnected from authenticating user root 92.255.85.37 port 40560 [preauth]
+Dec  5 21:50:35 gitlab-instance-1 sshd[1796414]: Connection closed by 38.88.109.220 port 47885 [preauth]
+Dec  5 22:00:55 gitlab-instance-1 sshd[1797424]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 22:01:14 gitlab-instance-1 sshd[1797457]: Received disconnect from 92.255.85.37 port 47818:11: Bye Bye [preauth]
+Dec  5 22:01:14 gitlab-instance-1 sshd[1797457]: Disconnected from authenticating user root 92.255.85.37 port 47818 [preauth]
+Dec  5 22:01:58 gitlab-instance-1 sshd[1797534]: Unable to negotiate with 23.183.81.136 port 36418: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 22:13:24 gitlab-instance-1 sshd[1798644]: Received disconnect from 92.255.85.37 port 39520:11: Bye Bye [preauth]
+Dec  5 22:13:24 gitlab-instance-1 sshd[1798644]: Disconnected from authenticating user root 92.255.85.37 port 39520 [preauth]
+Dec  5 22:17:01 gitlab-instance-1 CRON[1799006]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 22:17:01 gitlab-instance-1 CRON[1799006]: pam_unix(cron:session): session closed for user root
+Dec  5 22:27:43 gitlab-instance-1 sshd[1800047]: Invalid user deploy from 92.255.85.37 port 23026
+Dec  5 22:27:43 gitlab-instance-1 sshd[1800047]: Received disconnect from 92.255.85.37 port 23026:11: Bye Bye [preauth]
+Dec  5 22:27:43 gitlab-instance-1 sshd[1800047]: Disconnected from invalid user deploy 92.255.85.37 port 23026 [preauth]
+Dec  5 22:31:30 gitlab-instance-1 sshd[1800411]: Invalid user admin from 45.155.204.39 port 34147
+Dec  5 22:31:31 gitlab-instance-1 sshd[1800411]: Received disconnect from 45.155.204.39 port 34147:11: Client disconnecting normally [preauth]
+Dec  5 22:31:31 gitlab-instance-1 sshd[1800411]: Disconnected from invalid user admin 45.155.204.39 port 34147 [preauth]
+Dec  5 22:37:02 gitlab-instance-1 sshd[1800960]: error: kex_exchange_identification: read: Connection reset by peer
+Dec  5 22:39:08 gitlab-instance-1 sshd[1801165]: Received disconnect from 92.255.85.37 port 20818:11: Bye Bye [preauth]
+Dec  5 22:39:08 gitlab-instance-1 sshd[1801165]: Disconnected from authenticating user root 92.255.85.37 port 20818 [preauth]
+Dec  5 22:39:48 gitlab-instance-1 sshd[1801229]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 22:40:28 gitlab-instance-1 sshd[1801292]: Unable to negotiate with 23.183.82.180 port 56636: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 22:41:12 gitlab-instance-1 sshd[1801366]: error: kex_exchange_identification: Connection closed by remote host
+Dec  5 22:41:33 gitlab-instance-1 sshd[1801400]: Unable to negotiate with 23.183.82.180 port 59610: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  5 22:52:58 gitlab-instance-1 sshd[1802518]: Received disconnect from 92.255.85.237 port 57808:11: Bye Bye [preauth]
+Dec  5 22:52:58 gitlab-instance-1 sshd[1802518]: Disconnected from authenticating user root 92.255.85.237 port 57808 [preauth]
+Dec  5 23:06:56 gitlab-instance-1 sshd[1803874]: Received disconnect from 176.111.173.237 port 27762:11: Bye Bye [preauth]
+Dec  5 23:06:56 gitlab-instance-1 sshd[1803874]: Disconnected from authenticating user root 176.111.173.237 port 27762 [preauth]
+Dec  5 23:17:01 gitlab-instance-1 CRON[1804860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  5 23:17:01 gitlab-instance-1 CRON[1804860]: pam_unix(cron:session): session closed for user root
+Dec  5 23:17:27 gitlab-instance-1 sshd[1804902]: Received disconnect from 92.255.85.37 port 50380:11: Bye Bye [preauth]
+Dec  5 23:17:27 gitlab-instance-1 sshd[1804902]: Disconnected from authenticating user root 92.255.85.37 port 50380 [preauth]
+Dec  5 23:31:19 gitlab-instance-1 sshd[1806257]: Invalid user dspace from 92.255.85.37 port 21176
+Dec  5 23:31:19 gitlab-instance-1 sshd[1806257]: Received disconnect from 92.255.85.37 port 21176:11: Bye Bye [preauth]
+Dec  5 23:31:19 gitlab-instance-1 sshd[1806257]: Disconnected from invalid user dspace 92.255.85.37 port 21176 [preauth]
+Dec  5 23:46:14 gitlab-instance-1 sshd[1807690]: Received disconnect from 176.111.173.237 port 49964:11: Bye Bye [preauth]
+Dec  5 23:46:14 gitlab-instance-1 sshd[1807690]: Disconnected from authenticating user root 176.111.173.237 port 49964 [preauth]
+Dec  5 23:56:02 gitlab-instance-1 sshd[1808654]: Received disconnect from 92.255.85.37 port 31302:11: Bye Bye [preauth]
+Dec  5 23:56:02 gitlab-instance-1 sshd[1808654]: Disconnected from authenticating user ubuntu 92.255.85.37 port 31302 [preauth]
+Dec  6 00:06:20 gitlab-instance-1 sshd[1809696]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 00:06:26 gitlab-instance-1 sshd[1809706]: Unable to negotiate with 141.98.10.246 port 42400: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:06:36 gitlab-instance-1 sshd[1809732]: Unable to negotiate with 141.98.10.246 port 44218: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:06:46 gitlab-instance-1 sshd[1809749]: Unable to negotiate with 141.98.10.246 port 46046: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:06:56 gitlab-instance-1 sshd[1809771]: Unable to negotiate with 141.98.10.246 port 47874: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:07:06 gitlab-instance-1 sshd[1809788]: Unable to negotiate with 141.98.10.246 port 49712: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:07:17 gitlab-instance-1 sshd[1809808]: Unable to negotiate with 141.98.10.246 port 51546: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:07:28 gitlab-instance-1 sshd[1809826]: Unable to negotiate with 141.98.10.246 port 53378: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:07:38 gitlab-instance-1 sshd[1809845]: Unable to negotiate with 141.98.10.246 port 55212: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:07:49 gitlab-instance-1 sshd[1809861]: Unable to negotiate with 141.98.10.246 port 57054: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:08:00 gitlab-instance-1 sshd[1809898]: Unable to negotiate with 141.98.10.246 port 58878: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:08:11 gitlab-instance-1 sshd[1809915]: Unable to negotiate with 141.98.10.246 port 60710: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:08:22 gitlab-instance-1 sshd[1809937]: Unable to negotiate with 141.98.10.246 port 34308: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:08:33 gitlab-instance-1 sshd[1809958]: Unable to negotiate with 141.98.10.246 port 36142: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:08:44 gitlab-instance-1 sshd[1809975]: Unable to negotiate with 141.98.10.246 port 37976: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:08:55 gitlab-instance-1 sshd[1809994]: Unable to negotiate with 141.98.10.246 port 39806: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:09:06 gitlab-instance-1 sshd[1810015]: Unable to negotiate with 141.98.10.246 port 41642: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:09:17 gitlab-instance-1 sshd[1810032]: Unable to negotiate with 141.98.10.246 port 43474: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:09:27 gitlab-instance-1 sshd[1810052]: Unable to negotiate with 141.98.10.246 port 45302: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:09:33 gitlab-instance-1 sshd[1810058]: Invalid user user from 92.255.85.237 port 51408
+Dec  6 00:09:33 gitlab-instance-1 sshd[1810058]: Received disconnect from 92.255.85.237 port 51408:11: Bye Bye [preauth]
+Dec  6 00:09:33 gitlab-instance-1 sshd[1810058]: Disconnected from invalid user user 92.255.85.237 port 51408 [preauth]
+Dec  6 00:09:39 gitlab-instance-1 sshd[1810068]: Unable to negotiate with 141.98.10.246 port 47136: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:09:50 gitlab-instance-1 sshd[1810090]: Unable to negotiate with 141.98.10.246 port 48968: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:10:01 gitlab-instance-1 sshd[1810111]: Unable to negotiate with 141.98.10.246 port 50802: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:10:13 gitlab-instance-1 sshd[1810133]: Unable to negotiate with 141.98.10.246 port 52634: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:10:24 gitlab-instance-1 sshd[1810156]: Unable to negotiate with 141.98.10.246 port 54466: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:10:36 gitlab-instance-1 sshd[1810173]: Unable to negotiate with 141.98.10.246 port 56300: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:15:29 gitlab-instance-1 sshd[1810643]: Connection closed by authenticating user root 171.25.193.20 port 14027 [preauth]
+Dec  6 00:17:02 gitlab-instance-1 CRON[1810793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 00:17:02 gitlab-instance-1 CRON[1810793]: pam_unix(cron:session): session closed for user root
+Dec  6 00:17:09 gitlab-instance-1 sshd[1810810]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 00:17:41 gitlab-instance-1 sshd[1810860]: Unable to negotiate with 195.133.18.24 port 40784: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 00:22:09 gitlab-instance-1 sshd[1811314]: Invalid user dietpi from 91.223.67.146 port 10027
+Dec  6 00:22:09 gitlab-instance-1 sshd[1811314]: Received disconnect from 91.223.67.146 port 10027:11: Client disconnecting normally [preauth]
+Dec  6 00:22:09 gitlab-instance-1 sshd[1811314]: Disconnected from invalid user dietpi 91.223.67.146 port 10027 [preauth]
+Dec  6 00:23:59 gitlab-instance-1 sshd[1811489]: Invalid user user from 176.111.173.237 port 9804
+Dec  6 00:23:59 gitlab-instance-1 sshd[1811489]: Received disconnect from 176.111.173.237 port 9804:11: Bye Bye [preauth]
+Dec  6 00:23:59 gitlab-instance-1 sshd[1811489]: Disconnected from invalid user user 176.111.173.237 port 9804 [preauth]
+Dec  6 00:37:23 gitlab-instance-1 sshd[1812797]: Invalid user user from 176.111.173.237 port 6498
+Dec  6 00:37:23 gitlab-instance-1 sshd[1812797]: Received disconnect from 176.111.173.237 port 6498:11: Bye Bye [preauth]
+Dec  6 00:37:23 gitlab-instance-1 sshd[1812797]: Disconnected from invalid user user 176.111.173.237 port 6498 [preauth]
+Dec  6 00:47:19 gitlab-instance-1 sshd[1813768]: Received disconnect from 92.255.85.37 port 54988:11: Bye Bye [preauth]
+Dec  6 00:47:19 gitlab-instance-1 sshd[1813768]: Disconnected from authenticating user root 92.255.85.37 port 54988 [preauth]
+Dec  6 00:59:28 gitlab-instance-1 sshd[1814964]: Invalid user user from 92.255.85.37 port 56950
+Dec  6 00:59:28 gitlab-instance-1 sshd[1814964]: Received disconnect from 92.255.85.37 port 56950:11: Bye Bye [preauth]
+Dec  6 00:59:28 gitlab-instance-1 sshd[1814964]: Disconnected from invalid user user 92.255.85.37 port 56950 [preauth]
+Dec  6 00:59:51 gitlab-instance-1 sshd[1815005]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 01:00:18 gitlab-instance-1 sshd[1815043]: Unable to negotiate with 23.183.81.136 port 49008: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 01:07:40 gitlab-instance-1 sshd[1815782]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 01:08:00 gitlab-instance-1 sshd[1815813]: Unable to negotiate with 141.98.10.63 port 47716: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 01:12:57 gitlab-instance-1 sshd[1816287]: Invalid user user from 92.255.85.237 port 35058
+Dec  6 01:12:57 gitlab-instance-1 sshd[1816287]: Received disconnect from 92.255.85.237 port 35058:11: Bye Bye [preauth]
+Dec  6 01:12:57 gitlab-instance-1 sshd[1816287]: Disconnected from invalid user user 92.255.85.237 port 35058 [preauth]
+Dec  6 01:17:01 gitlab-instance-1 CRON[1816687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 01:17:01 gitlab-instance-1 CRON[1816687]: pam_unix(cron:session): session closed for user root
+Dec  6 01:26:54 gitlab-instance-1 sshd[1817648]: Invalid user 154user from 92.255.85.237 port 16764
+Dec  6 01:26:54 gitlab-instance-1 sshd[1817648]: Received disconnect from 92.255.85.237 port 16764:11: Bye Bye [preauth]
+Dec  6 01:26:54 gitlab-instance-1 sshd[1817648]: Disconnected from invalid user 154user 92.255.85.237 port 16764 [preauth]
+Dec  6 01:35:12 gitlab-instance-1 sshd[1818460]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 01:35:24 gitlab-instance-1 sshd[1818479]: Unable to negotiate with 141.98.10.63 port 56874: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 01:38:05 gitlab-instance-1 sshd[1818739]: Invalid user 161user from 92.255.85.37 port 54032
+Dec  6 01:38:05 gitlab-instance-1 sshd[1818739]: Received disconnect from 92.255.85.37 port 54032:11: Bye Bye [preauth]
+Dec  6 01:38:05 gitlab-instance-1 sshd[1818739]: Disconnected from invalid user 161user 92.255.85.37 port 54032 [preauth]
+Dec  6 01:49:30 gitlab-instance-1 sshd[1819834]: Connection closed by 192.241.208.58 port 57822 [preauth]
+Dec  6 01:50:34 gitlab-instance-1 sshd[1819959]: Invalid user 1001user from 92.255.85.237 port 59668
+Dec  6 01:50:34 gitlab-instance-1 sshd[1819959]: Received disconnect from 92.255.85.237 port 59668:11: Bye Bye [preauth]
+Dec  6 01:50:34 gitlab-instance-1 sshd[1819959]: Disconnected from invalid user 1001user 92.255.85.237 port 59668 [preauth]
+Dec  6 01:59:10 gitlab-instance-1 sshd[1820801]: Connection closed by authenticating user root 45.153.160.129 port 35818 [preauth]
+Dec  6 02:05:09 gitlab-instance-1 sshd[1821386]: Invalid user 666666 from 92.255.85.237 port 57570
+Dec  6 02:05:10 gitlab-instance-1 sshd[1821386]: Received disconnect from 92.255.85.237 port 57570:11: Bye Bye [preauth]
+Dec  6 02:05:10 gitlab-instance-1 sshd[1821386]: Disconnected from invalid user 666666 92.255.85.237 port 57570 [preauth]
+Dec  6 02:17:01 gitlab-instance-1 CRON[1822557]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 02:17:01 gitlab-instance-1 CRON[1822557]: pam_unix(cron:session): session closed for user root
+Dec  6 02:19:04 gitlab-instance-1 sshd[1822750]: Invalid user 888888 from 176.111.173.237 port 57544
+Dec  6 02:19:04 gitlab-instance-1 sshd[1822750]: Received disconnect from 176.111.173.237 port 57544:11: Bye Bye [preauth]
+Dec  6 02:19:04 gitlab-instance-1 sshd[1822750]: Disconnected from invalid user 888888 176.111.173.237 port 57544 [preauth]
+Dec  6 02:19:10 gitlab-instance-1 sshd[1822766]: Invalid user  from 65.49.20.68 port 36988
+Dec  6 02:19:15 gitlab-instance-1 sshd[1822766]: Connection closed by invalid user  65.49.20.68 port 36988 [preauth]
+Dec  6 02:26:52 gitlab-instance-1 sshd[1823522]: Invalid user pi from 203.228.100.41 port 47056
+Dec  6 02:26:52 gitlab-instance-1 sshd[1823523]: Invalid user pi from 203.228.100.41 port 47060
+Dec  6 02:26:52 gitlab-instance-1 sshd[1823522]: Connection closed by invalid user pi 203.228.100.41 port 47056 [preauth]
+Dec  6 02:26:52 gitlab-instance-1 sshd[1823523]: Connection closed by invalid user pi 203.228.100.41 port 47060 [preauth]
+Dec  6 02:28:04 gitlab-instance-1 sshd[1823638]: Invalid user admin from 92.255.85.237 port 61492
+Dec  6 02:28:05 gitlab-instance-1 sshd[1823638]: Received disconnect from 92.255.85.237 port 61492:11: Bye Bye [preauth]
+Dec  6 02:28:05 gitlab-instance-1 sshd[1823638]: Disconnected from invalid user admin 92.255.85.237 port 61492 [preauth]
+Dec  6 02:37:44 gitlab-instance-1 sshd[1824589]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 02:38:09 gitlab-instance-1 sshd[1824629]: Unable to negotiate with 195.133.18.24 port 41418: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 02:42:19 gitlab-instance-1 sshd[1825025]: Invalid user admin from 92.255.85.237 port 50714
+Dec  6 02:42:19 gitlab-instance-1 sshd[1825025]: Received disconnect from 92.255.85.237 port 50714:11: Bye Bye [preauth]
+Dec  6 02:42:19 gitlab-instance-1 sshd[1825025]: Disconnected from invalid user admin 92.255.85.237 port 50714 [preauth]
+Dec  6 02:45:45 gitlab-instance-1 sshd[1825362]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 02:46:21 gitlab-instance-1 sshd[1825421]: Unable to negotiate with 209.141.34.220 port 43102: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 02:46:43 gitlab-instance-1 sshd[1825447]: Connection closed by 209.17.96.26 port 39481 [preauth]
+Dec  6 02:55:55 gitlab-instance-1 sshd[1826356]: Invalid user admin1 from 92.255.85.37 port 22200
+Dec  6 02:55:55 gitlab-instance-1 sshd[1826356]: Received disconnect from 92.255.85.37 port 22200:11: Bye Bye [preauth]
+Dec  6 02:55:55 gitlab-instance-1 sshd[1826356]: Disconnected from invalid user admin1 92.255.85.37 port 22200 [preauth]
+Dec  6 02:56:36 gitlab-instance-1 sshd[1826401]: Connection closed by 162.142.125.57 port 45766 [preauth]
+Dec  6 03:09:44 gitlab-instance-1 sshd[1827733]: Invalid user admin from 176.111.173.237 port 11554
+Dec  6 03:09:44 gitlab-instance-1 sshd[1827733]: Received disconnect from 176.111.173.237 port 11554:11: Bye Bye [preauth]
+Dec  6 03:09:44 gitlab-instance-1 sshd[1827733]: Disconnected from invalid user admin 176.111.173.237 port 11554 [preauth]
+Dec  6 03:10:01 gitlab-instance-1 CRON[1827765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 03:10:01 gitlab-instance-1 CRON[1827765]: pam_unix(cron:session): session closed for user root
+Dec  6 03:17:01 gitlab-instance-1 CRON[1828438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 03:17:01 gitlab-instance-1 CRON[1828438]: pam_unix(cron:session): session closed for user root
+Dec  6 03:20:12 gitlab-instance-1 sshd[1828747]: Invalid user administrator from 92.255.85.37 port 22058
+Dec  6 03:20:12 gitlab-instance-1 sshd[1828747]: Received disconnect from 92.255.85.37 port 22058:11: Bye Bye [preauth]
+Dec  6 03:20:12 gitlab-instance-1 sshd[1828747]: Disconnected from invalid user administrator 92.255.85.37 port 22058 [preauth]
+Dec  6 03:26:25 gitlab-instance-1 sshd[1829343]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 03:27:42 gitlab-instance-1 sshd[1829489]: Unable to negotiate with 23.183.81.249 port 55304: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 03:35:18 gitlab-instance-1 sshd[1830202]: Invalid user Administrator from 92.255.85.237 port 36772
+Dec  6 03:35:19 gitlab-instance-1 sshd[1830202]: Received disconnect from 92.255.85.237 port 36772:11: Bye Bye [preauth]
+Dec  6 03:35:19 gitlab-instance-1 sshd[1830202]: Disconnected from invalid user Administrator 92.255.85.237 port 36772 [preauth]
+Dec  6 03:46:47 gitlab-instance-1 sshd[1831328]: Invalid user admin from 92.255.85.37 port 57080
+Dec  6 03:46:47 gitlab-instance-1 sshd[1831328]: Received disconnect from 92.255.85.37 port 57080:11: Bye Bye [preauth]
+Dec  6 03:46:47 gitlab-instance-1 sshd[1831328]: Disconnected from invalid user admin 92.255.85.37 port 57080 [preauth]
+Dec  6 04:01:56 gitlab-instance-1 sshd[1832829]: Invalid user admin from 176.111.173.237 port 59160
+Dec  6 04:01:57 gitlab-instance-1 sshd[1832829]: Received disconnect from 176.111.173.237 port 59160:11: Bye Bye [preauth]
+Dec  6 04:01:57 gitlab-instance-1 sshd[1832829]: Disconnected from invalid user admin 176.111.173.237 port 59160 [preauth]
+Dec  6 04:12:33 gitlab-instance-1 sshd[1833860]: Invalid user admin from 92.255.85.37 port 38936
+Dec  6 04:12:33 gitlab-instance-1 sshd[1833860]: Received disconnect from 92.255.85.37 port 38936:11: Bye Bye [preauth]
+Dec  6 04:12:33 gitlab-instance-1 sshd[1833860]: Disconnected from invalid user admin 92.255.85.37 port 38936 [preauth]
+Dec  6 04:17:01 gitlab-instance-1 CRON[1834311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 04:17:01 gitlab-instance-1 CRON[1834311]: pam_unix(cron:session): session closed for user root
+Dec  6 04:21:09 gitlab-instance-1 sshd[1834707]: Received disconnect from 161.35.82.195 port 40090:11: Bye Bye [preauth]
+Dec  6 04:21:09 gitlab-instance-1 sshd[1834707]: Disconnected from 161.35.82.195 port 40090 [preauth]
+Dec  6 04:25:45 gitlab-instance-1 sshd[1835153]: Invalid user guest from 92.255.85.237 port 26404
+Dec  6 04:25:45 gitlab-instance-1 sshd[1835153]: Received disconnect from 92.255.85.237 port 26404:11: Bye Bye [preauth]
+Dec  6 04:25:45 gitlab-instance-1 sshd[1835153]: Disconnected from invalid user guest 92.255.85.237 port 26404 [preauth]
+Dec  6 04:31:52 gitlab-instance-1 sshd[1835762]: Received disconnect from 137.184.49.249 port 54496:11: Bye Bye [preauth]
+Dec  6 04:31:52 gitlab-instance-1 sshd[1835762]: Disconnected from 137.184.49.249 port 54496 [preauth]
+Dec  6 04:37:22 gitlab-instance-1 sshd[1836296]: Received disconnect from 92.255.85.237 port 50988:11: Bye Bye [preauth]
+Dec  6 04:37:22 gitlab-instance-1 sshd[1836296]: Disconnected from authenticating user root 92.255.85.237 port 50988 [preauth]
+Dec  6 04:45:02 gitlab-instance-1 sshd[1837049]: Invalid user facturalista from 94.232.46.202 port 34828
+Dec  6 04:45:02 gitlab-instance-1 sshd[1837049]: Connection closed by invalid user facturalista 94.232.46.202 port 34828 [preauth]
+Dec  6 04:50:18 gitlab-instance-1 sshd[1837559]: Received disconnect from 92.255.85.237 port 18118:11: Bye Bye [preauth]
+Dec  6 04:50:18 gitlab-instance-1 sshd[1837559]: Disconnected from authenticating user root 92.255.85.237 port 18118 [preauth]
+Dec  6 04:50:26 gitlab-instance-1 sshd[1837558]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 05:05:06 gitlab-instance-1 sshd[1839001]: Received disconnect from 92.255.85.237 port 30306:11: Bye Bye [preauth]
+Dec  6 05:05:06 gitlab-instance-1 sshd[1839001]: Disconnected from authenticating user root 92.255.85.237 port 30306 [preauth]
+Dec  6 05:16:59 gitlab-instance-1 sshd[1840161]: Received disconnect from 92.255.85.237 port 59846:11: Bye Bye [preauth]
+Dec  6 05:16:59 gitlab-instance-1 sshd[1840161]: Disconnected from authenticating user root 92.255.85.237 port 59846 [preauth]
+Dec  6 05:17:01 gitlab-instance-1 CRON[1840167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 05:17:01 gitlab-instance-1 CRON[1840167]: pam_unix(cron:session): session closed for user root
+Dec  6 05:28:19 gitlab-instance-1 sshd[1841270]: Received disconnect from 92.255.85.237 port 51428:11: Bye Bye [preauth]
+Dec  6 05:28:19 gitlab-instance-1 sshd[1841270]: Disconnected from authenticating user root 92.255.85.237 port 51428 [preauth]
+Dec  6 05:45:06 gitlab-instance-1 sshd[1842923]: Received disconnect from 176.111.173.237 port 62248:11: Bye Bye [preauth]
+Dec  6 05:45:06 gitlab-instance-1 sshd[1842923]: Disconnected from authenticating user root 176.111.173.237 port 62248 [preauth]
+Dec  6 05:49:00 gitlab-instance-1 sshd[1843298]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 05:56:33 gitlab-instance-1 sshd[1844039]: Invalid user pi from 70.181.124.215 port 34035
+Dec  6 05:56:33 gitlab-instance-1 sshd[1844039]: Connection closed by invalid user pi 70.181.124.215 port 34035 [preauth]
+Dec  6 05:56:33 gitlab-instance-1 sshd[1844041]: Invalid user pi from 70.181.124.215 port 34037
+Dec  6 05:56:33 gitlab-instance-1 sshd[1844041]: Connection closed by invalid user pi 70.181.124.215 port 34037 [preauth]
+Dec  6 05:56:38 gitlab-instance-1 sshd[1844053]: Received disconnect from 176.111.173.237 port 13144:11: Bye Bye [preauth]
+Dec  6 05:56:38 gitlab-instance-1 sshd[1844053]: Disconnected from authenticating user root 176.111.173.237 port 13144 [preauth]
+Dec  6 05:56:46 gitlab-instance-1 sshd[1844058]: error: kex_exchange_identification: read: Connection reset by peer
+Dec  6 05:56:53 gitlab-instance-1 sshd[1844069]: error: kex_exchange_identification: read: Connection reset by peer
+Dec  6 05:56:53 gitlab-instance-1 sshd[1844070]: error: kex_exchange_identification: read: Connection reset by peer
+Dec  6 06:00:06 gitlab-instance-1 sshd[1844396]: Received disconnect from 161.35.153.160 port 58762:11: Bye Bye [preauth]
+Dec  6 06:00:06 gitlab-instance-1 sshd[1844396]: Disconnected from 161.35.153.160 port 58762 [preauth]
+Dec  6 06:07:35 gitlab-instance-1 sshd[1845132]: Received disconnect from 92.255.85.237 port 55710:11: Bye Bye [preauth]
+Dec  6 06:07:35 gitlab-instance-1 sshd[1845132]: Disconnected from authenticating user root 92.255.85.237 port 55710 [preauth]
+Dec  6 06:17:01 gitlab-instance-1 CRON[1846117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 06:17:01 gitlab-instance-1 CRON[1846117]: pam_unix(cron:session): session closed for user root
+Dec  6 06:20:33 gitlab-instance-1 sshd[1846455]: Received disconnect from 92.255.85.237 port 28926:11: Bye Bye [preauth]
+Dec  6 06:20:33 gitlab-instance-1 sshd[1846455]: Disconnected from authenticating user root 92.255.85.237 port 28926 [preauth]
+Dec  6 06:25:01 gitlab-instance-1 CRON[1846905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 06:25:01 gitlab-instance-1 CRON[1846905]: pam_unix(cron:session): session closed for user root
+Dec  6 06:33:44 gitlab-instance-1 sshd[1847829]: Received disconnect from 92.255.85.37 port 17986:11: Bye Bye [preauth]
+Dec  6 06:33:44 gitlab-instance-1 sshd[1847829]: Disconnected from authenticating user root 92.255.85.37 port 17986 [preauth]
+Dec  6 06:36:36 gitlab-instance-1 sshd[1848101]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 06:37:51 gitlab-instance-1 sshd[1848224]: Unable to negotiate with 23.183.81.249 port 44784: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 06:40:10 gitlab-instance-1 sshd[1848445]: Received disconnect from 188.166.22.176 port 41844:11: Bye Bye [preauth]
+Dec  6 06:40:10 gitlab-instance-1 sshd[1848445]: Disconnected from 188.166.22.176 port 41844 [preauth]
+Dec  6 06:49:06 gitlab-instance-1 sshd[1849397]: Received disconnect from 176.111.173.237 port 60096:11: Bye Bye [preauth]
+Dec  6 06:49:06 gitlab-instance-1 sshd[1849397]: Disconnected from authenticating user root 176.111.173.237 port 60096 [preauth]
+Dec  6 06:59:37 gitlab-instance-1 sshd[1850436]: Received disconnect from 92.255.85.37 port 16746:11: Bye Bye [preauth]
+Dec  6 06:59:37 gitlab-instance-1 sshd[1850436]: Disconnected from authenticating user root 92.255.85.37 port 16746 [preauth]
+Dec  6 07:11:30 gitlab-instance-1 sshd[1851605]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 07:11:35 gitlab-instance-1 sshd[1851615]: Received disconnect from 92.255.85.237 port 54430:11: Bye Bye [preauth]
+Dec  6 07:11:35 gitlab-instance-1 sshd[1851615]: Disconnected from authenticating user root 92.255.85.237 port 54430 [preauth]
+Dec  6 07:11:50 gitlab-instance-1 sshd[1851649]: Unable to negotiate with 205.185.114.149 port 56284: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:12:26 gitlab-instance-1 sshd[1851712]: Unable to negotiate with 205.185.114.149 port 36910: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:13:02 gitlab-instance-1 sshd[1851771]: Unable to negotiate with 205.185.114.149 port 45832: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:13:36 gitlab-instance-1 sshd[1851828]: Unable to negotiate with 205.185.114.149 port 54706: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:14:10 gitlab-instance-1 sshd[1851880]: Unable to negotiate with 205.185.114.149 port 35396: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:14:43 gitlab-instance-1 sshd[1851936]: Unable to negotiate with 205.185.114.149 port 44284: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:15:16 gitlab-instance-1 sshd[1851989]: Unable to negotiate with 205.185.114.149 port 53200: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:15:50 gitlab-instance-1 sshd[1852052]: Unable to negotiate with 205.185.114.149 port 33862: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:16:24 gitlab-instance-1 sshd[1852107]: Unable to negotiate with 205.185.114.149 port 42760: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:16:53 gitlab-instance-1 sshd[1852153]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 07:16:57 gitlab-instance-1 sshd[1852165]: Unable to negotiate with 205.185.114.149 port 51664: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:17:01 gitlab-instance-1 CRON[1852172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 07:17:01 gitlab-instance-1 CRON[1852172]: pam_unix(cron:session): session closed for user root
+Dec  6 07:17:03 gitlab-instance-1 sshd[1852179]: Unable to negotiate with 23.183.82.135 port 48692: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:17:31 gitlab-instance-1 sshd[1852225]: Unable to negotiate with 205.185.114.149 port 60572: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:18:05 gitlab-instance-1 sshd[1852279]: Unable to negotiate with 205.185.114.149 port 41246: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:18:39 gitlab-instance-1 sshd[1852338]: Unable to negotiate with 205.185.114.149 port 50134: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:19:13 gitlab-instance-1 sshd[1852393]: Unable to negotiate with 205.185.114.149 port 59040: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:19:47 gitlab-instance-1 sshd[1852447]: Unable to negotiate with 205.185.114.149 port 39710: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:20:22 gitlab-instance-1 sshd[1852507]: Unable to negotiate with 205.185.114.149 port 48612: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:20:56 gitlab-instance-1 sshd[1852564]: Unable to negotiate with 205.185.114.149 port 57516: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:21:31 gitlab-instance-1 sshd[1852620]: Unable to negotiate with 205.185.114.149 port 38184: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:22:05 gitlab-instance-1 sshd[1852682]: Unable to negotiate with 205.185.114.149 port 47090: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:22:40 gitlab-instance-1 sshd[1852738]: Unable to negotiate with 205.185.114.149 port 55994: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:23:14 gitlab-instance-1 sshd[1852797]: Unable to negotiate with 205.185.114.149 port 36660: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:23:49 gitlab-instance-1 sshd[1852869]: Unable to negotiate with 205.185.114.149 port 45560: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:24:24 gitlab-instance-1 sshd[1852926]: Unable to negotiate with 205.185.114.149 port 54466: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:25:00 gitlab-instance-1 sshd[1852986]: Unable to negotiate with 205.185.114.149 port 35136: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:25:35 gitlab-instance-1 sshd[1853041]: Unable to negotiate with 205.185.114.149 port 44036: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:26:11 gitlab-instance-1 sshd[1853106]: Unable to negotiate with 205.185.114.149 port 52938: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:26:46 gitlab-instance-1 sshd[1853167]: Unable to negotiate with 205.185.114.149 port 33606: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:27:21 gitlab-instance-1 sshd[1853227]: Unable to negotiate with 205.185.114.149 port 42514: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:27:41 gitlab-instance-1 sshd[1853258]: Received disconnect from 176.111.173.237 port 61184:11: Bye Bye [preauth]
+Dec  6 07:27:41 gitlab-instance-1 sshd[1853258]: Disconnected from authenticating user root 176.111.173.237 port 61184 [preauth]
+Dec  6 07:27:56 gitlab-instance-1 sshd[1853284]: Unable to negotiate with 205.185.114.149 port 51406: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:28:31 gitlab-instance-1 sshd[1853344]: Unable to negotiate with 205.185.114.149 port 60316: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:29:05 gitlab-instance-1 sshd[1853398]: Unable to negotiate with 205.185.114.149 port 40986: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:29:40 gitlab-instance-1 sshd[1853457]: Unable to negotiate with 205.185.114.149 port 49878: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:30:15 gitlab-instance-1 sshd[1853514]: Unable to negotiate with 205.185.114.149 port 58804: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:30:50 gitlab-instance-1 sshd[1853570]: Unable to negotiate with 205.185.114.149 port 39458: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:31:25 gitlab-instance-1 sshd[1853626]: Unable to negotiate with 205.185.114.149 port 48360: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:32:00 gitlab-instance-1 sshd[1853687]: Unable to negotiate with 205.185.114.149 port 57280: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:32:34 gitlab-instance-1 sshd[1853759]: Unable to negotiate with 205.185.114.149 port 37936: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:33:09 gitlab-instance-1 sshd[1853818]: Unable to negotiate with 205.185.114.149 port 46852: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:33:44 gitlab-instance-1 sshd[1853875]: Unable to negotiate with 205.185.114.149 port 55734: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:34:19 gitlab-instance-1 sshd[1853935]: Unable to negotiate with 205.185.114.149 port 36406: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:34:54 gitlab-instance-1 sshd[1853997]: Unable to negotiate with 205.185.114.149 port 45308: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:35:29 gitlab-instance-1 sshd[1854052]: Unable to negotiate with 205.185.114.149 port 54206: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 07:38:34 gitlab-instance-1 sshd[1854342]: Received disconnect from 92.255.85.237 port 41176:11: Bye Bye [preauth]
+Dec  6 07:38:34 gitlab-instance-1 sshd[1854342]: Disconnected from authenticating user root 92.255.85.237 port 41176 [preauth]
+Dec  6 07:50:01 gitlab-instance-1 sshd[1855462]: Connection closed by authenticating user root 171.25.193.78 port 32615 [preauth]
+Dec  6 07:51:23 gitlab-instance-1 sshd[1855597]: Received disconnect from 92.255.85.237 port 17652:11: Bye Bye [preauth]
+Dec  6 07:51:23 gitlab-instance-1 sshd[1855597]: Disconnected from authenticating user root 92.255.85.237 port 17652 [preauth]
+Dec  6 08:04:39 gitlab-instance-1 sshd[1856896]: Received disconnect from 176.111.173.237 port 9060:11: Bye Bye [preauth]
+Dec  6 08:04:39 gitlab-instance-1 sshd[1856896]: Disconnected from authenticating user root 176.111.173.237 port 9060 [preauth]
+Dec  6 08:16:04 gitlab-instance-1 sshd[1858014]: Received disconnect from 92.255.85.237 port 28618:11: Bye Bye [preauth]
+Dec  6 08:16:04 gitlab-instance-1 sshd[1858014]: Disconnected from authenticating user root 92.255.85.237 port 28618 [preauth]
+Dec  6 08:17:01 gitlab-instance-1 CRON[1858108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 08:17:01 gitlab-instance-1 CRON[1858108]: pam_unix(cron:session): session closed for user root
+Dec  6 08:29:48 gitlab-instance-1 sshd[1859352]: Received disconnect from 92.255.85.37 port 26578:11: Bye Bye [preauth]
+Dec  6 08:29:48 gitlab-instance-1 sshd[1859352]: Disconnected from authenticating user root 92.255.85.37 port 26578 [preauth]
+Dec  6 08:41:59 gitlab-instance-1 sshd[1860540]: Received disconnect from 92.255.85.37 port 28350:11: Bye Bye [preauth]
+Dec  6 08:41:59 gitlab-instance-1 sshd[1860540]: Disconnected from authenticating user root 92.255.85.37 port 28350 [preauth]
+Dec  6 08:55:55 gitlab-instance-1 sshd[1861888]: Received disconnect from 92.255.85.237 port 20360:11: Bye Bye [preauth]
+Dec  6 08:55:55 gitlab-instance-1 sshd[1861888]: Disconnected from authenticating user root 92.255.85.237 port 20360 [preauth]
+Dec  6 09:10:23 gitlab-instance-1 sshd[1863315]: Received disconnect from 176.111.173.237 port 63592:11: Bye Bye [preauth]
+Dec  6 09:10:23 gitlab-instance-1 sshd[1863315]: Disconnected from authenticating user root 176.111.173.237 port 63592 [preauth]
+Dec  6 09:11:01 gitlab-instance-1 sshd[1863378]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 09:11:53 gitlab-instance-1 sshd[1863465]: Unable to negotiate with 209.141.53.74 port 49374: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 09:17:01 gitlab-instance-1 CRON[1863961]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 09:17:01 gitlab-instance-1 CRON[1863961]: pam_unix(cron:session): session closed for user root
+Dec  6 09:22:17 gitlab-instance-1 sshd[1864470]: Received disconnect from 176.111.173.237 port 48408:11: Bye Bye [preauth]
+Dec  6 09:22:17 gitlab-instance-1 sshd[1864470]: Disconnected from authenticating user root 176.111.173.237 port 48408 [preauth]
+Dec  6 09:33:11 gitlab-instance-1 sshd[1865521]: Received disconnect from 176.111.173.237 port 28978:11: Bye Bye [preauth]
+Dec  6 09:33:11 gitlab-instance-1 sshd[1865521]: Disconnected from authenticating user root 176.111.173.237 port 28978 [preauth]
+Dec  6 09:43:18 gitlab-instance-1 sshd[1866515]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 09:43:36 gitlab-instance-1 sshd[1866542]: Unable to negotiate with 141.98.10.63 port 33508: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 09:43:40 gitlab-instance-1 sshd[1866549]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 09:45:05 gitlab-instance-1 sshd[1866684]: Unable to negotiate with 23.183.81.136 port 52682: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 09:46:26 gitlab-instance-1 sshd[1866818]: Invalid user supervisor from 92.255.85.237 port 16396
+Dec  6 09:46:26 gitlab-instance-1 sshd[1866818]: Received disconnect from 92.255.85.237 port 16396:11: Bye Bye [preauth]
+Dec  6 09:46:26 gitlab-instance-1 sshd[1866818]: Disconnected from invalid user supervisor 92.255.85.237 port 16396 [preauth]
+Dec  6 09:59:43 gitlab-instance-1 sshd[1868133]: Invalid user 02 from 92.255.85.37 port 20484
+Dec  6 09:59:43 gitlab-instance-1 sshd[1868133]: Received disconnect from 92.255.85.37 port 20484:11: Bye Bye [preauth]
+Dec  6 09:59:43 gitlab-instance-1 sshd[1868133]: Disconnected from invalid user 02 92.255.85.37 port 20484 [preauth]
+Dec  6 10:11:20 gitlab-instance-1 sshd[1869269]: Invalid user aaron from 92.255.85.237 port 47974
+Dec  6 10:11:21 gitlab-instance-1 sshd[1869269]: Received disconnect from 92.255.85.237 port 47974:11: Bye Bye [preauth]
+Dec  6 10:11:21 gitlab-instance-1 sshd[1869269]: Disconnected from invalid user aaron 92.255.85.237 port 47974 [preauth]
+Dec  6 10:17:01 gitlab-instance-1 CRON[1869831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 10:17:01 gitlab-instance-1 CRON[1869831]: pam_unix(cron:session): session closed for user root
+Dec  6 10:25:30 gitlab-instance-1 sshd[1870644]: Invalid user admin from 176.111.173.237 port 17530
+Dec  6 10:25:30 gitlab-instance-1 sshd[1870644]: Received disconnect from 176.111.173.237 port 17530:11: Bye Bye [preauth]
+Dec  6 10:25:30 gitlab-instance-1 sshd[1870644]: Disconnected from invalid user admin 176.111.173.237 port 17530 [preauth]
+Dec  6 10:32:37 gitlab-instance-1 sshd[1871342]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 10:32:38 gitlab-instance-1 sshd[1871344]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 10:37:17 gitlab-instance-1 sshd[1871793]: Invalid user admin from 92.255.85.37 port 32398
+Dec  6 10:37:17 gitlab-instance-1 sshd[1871793]: Received disconnect from 92.255.85.37 port 32398:11: Bye Bye [preauth]
+Dec  6 10:37:17 gitlab-instance-1 sshd[1871793]: Disconnected from invalid user admin 92.255.85.37 port 32398 [preauth]
+Dec  6 10:49:52 gitlab-instance-1 sshd[1873562]: Connection closed by authenticating user root 162.247.74.200 port 59884 [preauth]
+Dec  6 11:02:14 gitlab-instance-1 sshd[1874802]: Invalid user admin from 92.255.85.37 port 29334
+Dec  6 11:02:14 gitlab-instance-1 sshd[1874802]: Received disconnect from 92.255.85.37 port 29334:11: Bye Bye [preauth]
+Dec  6 11:02:14 gitlab-instance-1 sshd[1874802]: Disconnected from invalid user admin 92.255.85.37 port 29334 [preauth]
+Dec  6 11:06:18 gitlab-instance-1 sshd[1875197]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 11:13:09 gitlab-instance-1 sshd[1875849]: Invalid user admin from 176.111.173.237 port 23592
+Dec  6 11:13:09 gitlab-instance-1 sshd[1875849]: Received disconnect from 176.111.173.237 port 23592:11: Bye Bye [preauth]
+Dec  6 11:13:09 gitlab-instance-1 sshd[1875849]: Disconnected from invalid user admin 176.111.173.237 port 23592 [preauth]
+Dec  6 11:15:26 gitlab-instance-1 sshd[1876079]: Invalid user admin from 92.255.85.237 port 25434
+Dec  6 11:15:26 gitlab-instance-1 sshd[1876079]: Received disconnect from 92.255.85.237 port 25434:11: Bye Bye [preauth]
+Dec  6 11:15:26 gitlab-instance-1 sshd[1876079]: Disconnected from invalid user admin 92.255.85.237 port 25434 [preauth]
+Dec  6 11:17:01 gitlab-instance-1 CRON[1876249]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 11:17:01 gitlab-instance-1 CRON[1876249]: pam_unix(cron:session): session closed for user root
+Dec  6 11:32:21 gitlab-instance-1 sshd[1877734]: Invalid user admin from 176.111.173.237 port 41028
+Dec  6 11:32:21 gitlab-instance-1 sshd[1877734]: Received disconnect from 176.111.173.237 port 41028:11: Bye Bye [preauth]
+Dec  6 11:32:21 gitlab-instance-1 sshd[1877734]: Disconnected from invalid user admin 176.111.173.237 port 41028 [preauth]
+Dec  6 11:37:36 gitlab-instance-1 sshd[1878232]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 11:39:17 gitlab-instance-1 sshd[1878399]: Unable to negotiate with 23.183.81.136 port 40340: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 11:41:21 gitlab-instance-1 sshd[1878598]: Invalid user support from 116.110.20.208 port 49252
+Dec  6 11:41:22 gitlab-instance-1 sshd[1878598]: Connection closed by invalid user support 116.110.20.208 port 49252 [preauth]
+Dec  6 11:41:41 gitlab-instance-1 sshd[1878628]: Invalid user user from 115.73.30.224 port 34354
+Dec  6 11:41:42 gitlab-instance-1 sshd[1878628]: Connection closed by invalid user user 115.73.30.224 port 34354 [preauth]
+Dec  6 11:41:48 gitlab-instance-1 sshd[1878644]: Invalid user admin from 115.73.30.224 port 33392
+Dec  6 11:41:52 gitlab-instance-1 sshd[1878644]: Connection closed by invalid user admin 115.73.30.224 port 33392 [preauth]
+Dec  6 11:41:55 gitlab-instance-1 sshd[1878655]: Invalid user admin from 116.105.217.54 port 46160
+Dec  6 11:41:55 gitlab-instance-1 sshd[1878655]: Connection closed by invalid user admin 116.105.217.54 port 46160 [preauth]
+Dec  6 11:42:03 gitlab-instance-1 sshd[1878674]: Connection closed by authenticating user root 116.110.252.176 port 47540 [preauth]
+Dec  6 11:42:42 gitlab-instance-1 sshd[1878732]: Invalid user service from 116.110.20.208 port 52626
+Dec  6 11:42:43 gitlab-instance-1 sshd[1878732]: Connection closed by invalid user service 116.110.20.208 port 52626 [preauth]
+Dec  6 11:42:57 gitlab-instance-1 sshd[1878759]: Invalid user admin from 115.73.30.224 port 58718
+Dec  6 11:42:59 gitlab-instance-1 sshd[1878759]: Connection closed by invalid user admin 115.73.30.224 port 58718 [preauth]
+Dec  6 11:43:01 gitlab-instance-1 sshd[1878657]: Connection closed by authenticating user root 116.110.20.208 port 56638 [preauth]
+Dec  6 11:43:50 gitlab-instance-1 sshd[1878864]: Invalid user ftpuser from 116.110.92.217 port 41810
+Dec  6 11:44:06 gitlab-instance-1 sshd[1878886]: Connection closed by authenticating user root 116.110.20.208 port 60280 [preauth]
+Dec  6 11:44:19 gitlab-instance-1 sshd[1878864]: Connection closed by invalid user ftpuser 116.110.92.217 port 41810 [preauth]
+Dec  6 11:44:20 gitlab-instance-1 sshd[1878910]: Invalid user system from 116.105.217.54 port 38670
+Dec  6 11:44:22 gitlab-instance-1 sshd[1878922]: Invalid user manager from 116.110.252.176 port 35454
+Dec  6 11:44:22 gitlab-instance-1 sshd[1878922]: Connection closed by invalid user manager 116.110.252.176 port 35454 [preauth]
+Dec  6 11:44:24 gitlab-instance-1 sshd[1878929]: Invalid user admin from 176.111.173.237 port 58634
+Dec  6 11:44:24 gitlab-instance-1 sshd[1878929]: Received disconnect from 176.111.173.237 port 58634:11: Bye Bye [preauth]
+Dec  6 11:44:24 gitlab-instance-1 sshd[1878929]: Disconnected from invalid user admin 176.111.173.237 port 58634 [preauth]
+Dec  6 11:44:24 gitlab-instance-1 sshd[1878910]: Connection closed by invalid user system 116.105.217.54 port 38670 [preauth]
+Dec  6 11:44:36 gitlab-instance-1 sshd[1878931]: Invalid user guest from 116.110.252.176 port 41842
+Dec  6 11:44:37 gitlab-instance-1 sshd[1878931]: Connection closed by invalid user guest 116.110.252.176 port 41842 [preauth]
+Dec  6 11:45:10 gitlab-instance-1 sshd[1879005]: Invalid user admin from 116.110.20.208 port 2755
+Dec  6 11:45:10 gitlab-instance-1 sshd[1879005]: Connection closed by invalid user admin 116.110.20.208 port 2755 [preauth]
+Dec  6 11:45:10 gitlab-instance-1 sshd[1878999]: Invalid user PlcmSpIp from 116.110.92.217 port 33436
+Dec  6 11:45:12 gitlab-instance-1 sshd[1879013]: Invalid user test from 115.73.30.224 port 56540
+Dec  6 11:45:12 gitlab-instance-1 sshd[1878999]: Connection closed by invalid user PlcmSpIp 116.110.92.217 port 33436 [preauth]
+Dec  6 11:45:13 gitlab-instance-1 sshd[1879007]: Connection closed by authenticating user root 115.73.30.224 port 50336 [preauth]
+Dec  6 11:45:13 gitlab-instance-1 sshd[1879013]: Connection closed by invalid user test 115.73.30.224 port 56540 [preauth]
+Dec  6 11:45:23 gitlab-instance-1 sshd[1879032]: Connection closed by authenticating user root 116.110.92.217 port 49004 [preauth]
+Dec  6 11:45:35 gitlab-instance-1 sshd[1879052]: Invalid user mailman from 116.110.252.176 port 48484
+Dec  6 11:45:35 gitlab-instance-1 sshd[1879052]: Connection closed by invalid user mailman 116.110.252.176 port 48484 [preauth]
+Dec  6 11:46:01 gitlab-instance-1 sshd[1879096]: Invalid user ftpuser from 116.110.252.176 port 34958
+Dec  6 11:46:02 gitlab-instance-1 sshd[1879096]: Connection closed by invalid user ftpuser 116.110.252.176 port 34958 [preauth]
+Dec  6 11:46:16 gitlab-instance-1 sshd[1879121]: Invalid user RPM from 116.105.217.54 port 57344
+Dec  6 11:46:16 gitlab-instance-1 sshd[1879121]: Connection closed by invalid user RPM 116.105.217.54 port 57344 [preauth]
+Dec  6 11:46:26 gitlab-instance-1 sshd[1879137]: Connection closed by authenticating user root 115.73.30.224 port 37332 [preauth]
+Dec  6 11:46:37 gitlab-instance-1 sshd[1879160]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 11:46:38 gitlab-instance-1 sshd[1879158]: Invalid user shutdown from 116.110.20.208 port 55712
+Dec  6 11:46:39 gitlab-instance-1 sshd[1879158]: Connection closed by invalid user shutdown 116.110.20.208 port 55712 [preauth]
+Dec  6 11:46:50 gitlab-instance-1 sshd[1879180]: Unable to negotiate with 141.98.10.63 port 54288: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 11:47:59 gitlab-instance-1 sshd[1879299]: Invalid user one from 116.110.20.208 port 34582
+Dec  6 11:48:00 gitlab-instance-1 sshd[1879299]: Connection closed by invalid user one 116.110.20.208 port 34582 [preauth]
+Dec  6 11:48:05 gitlab-instance-1 sshd[1879310]: Invalid user jason from 116.110.20.208 port 42342
+Dec  6 11:48:05 gitlab-instance-1 sshd[1879310]: Connection closed by invalid user jason 116.110.20.208 port 42342 [preauth]
+Dec  6 11:48:52 gitlab-instance-1 sshd[1879388]: Invalid user ftp from 116.103.20.17 port 53168
+Dec  6 11:48:53 gitlab-instance-1 sshd[1879388]: Connection closed by invalid user ftp 116.103.20.17 port 53168 [preauth]
+Dec  6 11:49:16 gitlab-instance-1 sshd[1879420]: Invalid user admin from 116.110.92.217 port 37400
+Dec  6 11:49:16 gitlab-instance-1 sshd[1879430]: Invalid user music from 116.110.252.176 port 52680
+Dec  6 11:49:16 gitlab-instance-1 sshd[1879420]: Connection closed by invalid user admin 116.110.92.217 port 37400 [preauth]
+Dec  6 11:49:16 gitlab-instance-1 sshd[1879430]: Connection closed by invalid user music 116.110.252.176 port 52680 [preauth]
+Dec  6 11:49:31 gitlab-instance-1 sshd[1879456]: Invalid user admin from 116.110.20.208 port 54202
+Dec  6 11:49:32 gitlab-instance-1 sshd[1879456]: Connection closed by invalid user admin 116.110.20.208 port 54202 [preauth]
+Dec  6 11:50:09 gitlab-instance-1 sshd[1879521]: Invalid user admin from 115.73.30.224 port 56084
+Dec  6 11:50:09 gitlab-instance-1 sshd[1879521]: Connection closed by invalid user admin 115.73.30.224 port 56084 [preauth]
+Dec  6 11:50:15 gitlab-instance-1 sshd[1879533]: Invalid user 1234 from 116.110.252.176 port 56884
+Dec  6 11:50:15 gitlab-instance-1 sshd[1879533]: Connection closed by invalid user 1234 116.110.252.176 port 56884 [preauth]
+Dec  6 11:50:53 gitlab-instance-1 sshd[1879587]: Invalid user admin from 116.105.217.54 port 50660
+Dec  6 11:50:53 gitlab-instance-1 sshd[1879587]: Connection closed by invalid user admin 116.105.217.54 port 50660 [preauth]
+Dec  6 11:51:00 gitlab-instance-1 sshd[1879609]: Invalid user xerox from 116.110.20.208 port 36968
+Dec  6 11:51:01 gitlab-instance-1 sshd[1879609]: Connection closed by invalid user xerox 116.110.20.208 port 36968 [preauth]
+Dec  6 11:51:42 gitlab-instance-1 sshd[1879678]: Invalid user user from 116.110.20.208 port 34046
+Dec  6 11:51:42 gitlab-instance-1 sshd[1879678]: Connection closed by invalid user user 116.110.20.208 port 34046 [preauth]
+Dec  6 11:52:35 gitlab-instance-1 sshd[1879756]: Invalid user user1 from 116.110.92.217 port 36200
+Dec  6 11:52:37 gitlab-instance-1 sshd[1879772]: Invalid user username from 116.110.20.208 port 56806
+Dec  6 11:52:37 gitlab-instance-1 sshd[1879772]: Connection closed by invalid user username 116.110.20.208 port 56806 [preauth]
+Dec  6 11:52:39 gitlab-instance-1 sshd[1879756]: Connection closed by invalid user user1 116.110.92.217 port 36200 [preauth]
+Dec  6 11:52:59 gitlab-instance-1 sshd[1879808]: Invalid user upload from 116.103.20.17 port 56524
+Dec  6 11:53:00 gitlab-instance-1 sshd[1879808]: Connection closed by invalid user upload 116.103.20.17 port 56524 [preauth]
+Dec  6 11:53:38 gitlab-instance-1 sshd[1879873]: Invalid user Administrator from 92.255.85.37 port 59412
+Dec  6 11:53:38 gitlab-instance-1 sshd[1879873]: Received disconnect from 92.255.85.37 port 59412:11: Bye Bye [preauth]
+Dec  6 11:53:38 gitlab-instance-1 sshd[1879873]: Disconnected from invalid user Administrator 92.255.85.37 port 59412 [preauth]
+Dec  6 11:53:45 gitlab-instance-1 sshd[1879892]: Invalid user tomcat from 116.110.20.208 port 36598
+Dec  6 11:53:45 gitlab-instance-1 sshd[1879892]: Connection closed by invalid user tomcat 116.110.20.208 port 36598 [preauth]
+Dec  6 11:53:49 gitlab-instance-1 sshd[1879899]: Invalid user testuser from 116.110.20.208 port 59268
+Dec  6 11:53:49 gitlab-instance-1 sshd[1879899]: Connection closed by invalid user testuser 116.110.20.208 port 59268 [preauth]
+Dec  6 11:53:56 gitlab-instance-1 sshd[1879914]: Invalid user test from 115.73.30.224 port 59078
+Dec  6 11:53:57 gitlab-instance-1 sshd[1879914]: Connection closed by invalid user test 115.73.30.224 port 59078 [preauth]
+Dec  6 11:54:05 gitlab-instance-1 sshd[1879927]: Invalid user tester from 116.103.20.17 port 42220
+Dec  6 11:54:05 gitlab-instance-1 sshd[1879927]: Connection closed by invalid user tester 116.103.20.17 port 42220 [preauth]
+Dec  6 11:54:33 gitlab-instance-1 sshd[1879977]: Connection closed by authenticating user sync 116.110.252.176 port 50750 [preauth]
+Dec  6 11:56:30 gitlab-instance-1 sshd[1880166]: Invalid user super from 116.105.217.54 port 39958
+Dec  6 11:56:30 gitlab-instance-1 sshd[1880166]: Connection closed by invalid user super 116.105.217.54 port 39958 [preauth]
+Dec  6 11:56:33 gitlab-instance-1 sshd[1880087]: Invalid user support from 116.105.217.54 port 60890
+Dec  6 11:56:33 gitlab-instance-1 sshd[1880087]: Connection closed by invalid user support 116.105.217.54 port 60890 [preauth]
+Dec  6 11:57:10 gitlab-instance-1 sshd[1880235]: Invalid user super from 116.110.92.217 port 33078
+Dec  6 11:57:11 gitlab-instance-1 sshd[1880235]: Connection closed by invalid user super 116.110.92.217 port 33078 [preauth]
+Dec  6 11:57:36 gitlab-instance-1 sshd[1880289]: Invalid user super1234 from 116.110.20.208 port 55338
+Dec  6 11:57:36 gitlab-instance-1 sshd[1880289]: Connection closed by invalid user super1234 116.110.20.208 port 55338 [preauth]
+Dec  6 11:58:44 gitlab-instance-1 sshd[1880403]: Invalid user squid from 116.110.252.176 port 58988
+Dec  6 11:58:44 gitlab-instance-1 sshd[1880403]: Connection closed by invalid user squid 116.110.252.176 port 58988 [preauth]
+Dec  6 11:59:50 gitlab-instance-1 sshd[1880508]: Invalid user sconsole from 116.110.20.208 port 52750
+Dec  6 11:59:50 gitlab-instance-1 sshd[1880508]: Connection closed by invalid user sconsole 116.110.20.208 port 52750 [preauth]
+Dec  6 12:00:36 gitlab-instance-1 sshd[1880607]: Connection closed by authenticating user root 116.103.20.17 port 55122 [preauth]
+Dec  6 12:01:12 gitlab-instance-1 sshd[1880666]: Connection closed by authenticating user root 116.110.252.176 port 60626 [preauth]
+Dec  6 12:02:43 gitlab-instance-1 sshd[1880812]: Connection closed by authenticating user root 116.110.20.208 port 43352 [preauth]
+Dec  6 12:03:43 gitlab-instance-1 sshd[1880910]: Connection closed by authenticating user root 116.110.252.176 port 42086 [preauth]
+Dec  6 12:05:06 gitlab-instance-1 sshd[1881047]: Connection closed by authenticating user root 116.110.92.217 port 49198 [preauth]
+Dec  6 12:06:55 gitlab-instance-1 sshd[1881231]: Invalid user ADMINISTRATOR from 92.255.85.237 port 22608
+Dec  6 12:06:56 gitlab-instance-1 sshd[1881231]: Received disconnect from 92.255.85.237 port 22608:11: Bye Bye [preauth]
+Dec  6 12:06:56 gitlab-instance-1 sshd[1881231]: Disconnected from invalid user ADMINISTRATOR 92.255.85.237 port 22608 [preauth]
+Dec  6 12:07:36 gitlab-instance-1 sshd[1881294]: Connection closed by authenticating user root 115.73.30.224 port 57554 [preauth]
+Dec  6 12:08:22 gitlab-instance-1 sshd[1881367]: Connection closed by authenticating user root 116.110.20.208 port 47064 [preauth]
+Dec  6 12:11:34 gitlab-instance-1 sshd[1881698]: Invalid user record from 116.105.217.54 port 59956
+Dec  6 12:11:34 gitlab-instance-1 sshd[1881698]: Connection closed by invalid user record 116.105.217.54 port 59956 [preauth]
+Dec  6 12:15:00 gitlab-instance-1 sshd[1882030]: Invalid user public from 116.110.252.176 port 58002
+Dec  6 12:15:00 gitlab-instance-1 sshd[1882030]: Connection closed by invalid user public 116.110.252.176 port 58002 [preauth]
+Dec  6 12:17:01 gitlab-instance-1 CRON[1882235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 12:17:01 gitlab-instance-1 CRON[1882235]: pam_unix(cron:session): session closed for user root
+Dec  6 12:19:27 gitlab-instance-1 sshd[1882468]: Invalid user post from 116.110.252.176 port 44322
+Dec  6 12:19:27 gitlab-instance-1 sshd[1882468]: Connection closed by invalid user post 116.110.252.176 port 44322 [preauth]
+Dec  6 12:21:48 gitlab-instance-1 sshd[1882708]: Invalid user administrator from 92.255.85.37 port 57160
+Dec  6 12:21:49 gitlab-instance-1 sshd[1882708]: Received disconnect from 92.255.85.37 port 57160:11: Bye Bye [preauth]
+Dec  6 12:21:49 gitlab-instance-1 sshd[1882708]: Disconnected from invalid user administrator 92.255.85.37 port 57160 [preauth]
+Dec  6 12:26:56 gitlab-instance-1 sshd[1883208]: error: kex_exchange_identification: banner line contains invalid characters
+Dec  6 12:30:35 gitlab-instance-1 sshd[1883572]: Invalid user pi from 116.110.20.208 port 33472
+Dec  6 12:30:35 gitlab-instance-1 sshd[1883572]: Connection closed by invalid user pi 116.110.20.208 port 33472 [preauth]
+Dec  6 12:34:41 gitlab-instance-1 sshd[1883972]: Invalid user admin from 92.255.85.237 port 38946
+Dec  6 12:34:41 gitlab-instance-1 sshd[1883972]: Received disconnect from 92.255.85.237 port 38946:11: Bye Bye [preauth]
+Dec  6 12:34:41 gitlab-instance-1 sshd[1883972]: Disconnected from invalid user admin 92.255.85.237 port 38946 [preauth]
+Dec  6 12:40:29 gitlab-instance-1 sshd[1884531]: Invalid user  from 118.193.46.79 port 48572
+Dec  6 12:40:29 gitlab-instance-1 sshd[1884530]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 12:40:37 gitlab-instance-1 sshd[1884545]: Invalid user phpmy from 116.103.20.17 port 49814
+Dec  6 12:40:38 gitlab-instance-1 sshd[1884545]: Connection closed by invalid user phpmy 116.103.20.17 port 49814 [preauth]
+Dec  6 12:40:43 gitlab-instance-1 sshd[1884531]: Connection closed by invalid user  118.193.46.79 port 48572 [preauth]
+Dec  6 12:41:27 gitlab-instance-1 sshd[1884631]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 12:41:47 gitlab-instance-1 sshd[1884664]: Unable to negotiate with 195.133.18.24 port 49398: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 12:47:13 gitlab-instance-1 sshd[1885195]: Invalid user admin from 176.111.173.237 port 27082
+Dec  6 12:47:13 gitlab-instance-1 sshd[1885195]: Received disconnect from 176.111.173.237 port 27082:11: Bye Bye [preauth]
+Dec  6 12:47:13 gitlab-instance-1 sshd[1885195]: Disconnected from invalid user admin 176.111.173.237 port 27082 [preauth]
+Dec  6 12:53:37 gitlab-instance-1 sshd[1885813]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 12:53:59 gitlab-instance-1 sshd[1885853]: Unable to negotiate with 209.141.53.74 port 38462: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 12:59:27 gitlab-instance-1 sshd[1886404]: Invalid user admin from 92.255.85.37 port 18538
+Dec  6 12:59:27 gitlab-instance-1 sshd[1886404]: Received disconnect from 92.255.85.37 port 18538:11: Bye Bye [preauth]
+Dec  6 12:59:27 gitlab-instance-1 sshd[1886404]: Disconnected from invalid user admin 92.255.85.37 port 18538 [preauth]
+Dec  6 13:09:23 gitlab-instance-1 sshd[1887388]: error: kex_exchange_identification: client sent invalid protocol identifier ""
+Dec  6 13:11:00 gitlab-instance-1 sshd[1887551]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 13:11:59 gitlab-instance-1 sshd[1887642]: Invalid user admin from 92.255.85.237 port 29438
+Dec  6 13:11:59 gitlab-instance-1 sshd[1887642]: Received disconnect from 92.255.85.237 port 29438:11: Bye Bye [preauth]
+Dec  6 13:11:59 gitlab-instance-1 sshd[1887642]: Disconnected from invalid user admin 92.255.85.237 port 29438 [preauth]
+Dec  6 13:17:01 gitlab-instance-1 CRON[1888125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 13:17:01 gitlab-instance-1 CRON[1888125]: pam_unix(cron:session): session closed for user root
+Dec  6 13:25:38 gitlab-instance-1 sshd[1888980]: Invalid user admin from 92.255.85.37 port 31684
+Dec  6 13:25:38 gitlab-instance-1 sshd[1888980]: Received disconnect from 92.255.85.37 port 31684:11: Bye Bye [preauth]
+Dec  6 13:25:38 gitlab-instance-1 sshd[1888980]: Disconnected from invalid user admin 92.255.85.37 port 31684 [preauth]
+Dec  6 13:40:04 gitlab-instance-1 sshd[1890390]: Invalid user admin from 176.111.173.237 port 14094
+Dec  6 13:40:05 gitlab-instance-1 sshd[1890390]: Received disconnect from 176.111.173.237 port 14094:11: Bye Bye [preauth]
+Dec  6 13:40:05 gitlab-instance-1 sshd[1890390]: Disconnected from invalid user admin 176.111.173.237 port 14094 [preauth]
+Dec  6 13:47:17 gitlab-instance-1 sshd[1891084]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 13:48:12 gitlab-instance-1 sshd[1891171]: Unable to negotiate with 23.183.81.227 port 39958: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 13:49:50 gitlab-instance-1 sshd[1891325]: Invalid user admin from 92.255.85.37 port 45286
+Dec  6 13:49:50 gitlab-instance-1 sshd[1891325]: Received disconnect from 92.255.85.37 port 45286:11: Bye Bye [preauth]
+Dec  6 13:49:50 gitlab-instance-1 sshd[1891325]: Disconnected from invalid user admin 92.255.85.37 port 45286 [preauth]
+Dec  6 14:03:56 gitlab-instance-1 sshd[1892710]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 14:04:35 gitlab-instance-1 sshd[1892786]: Unable to negotiate with 209.141.47.245 port 38306: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 14:04:58 gitlab-instance-1 sshd[1892829]: Invalid user admin from 92.255.85.237 port 31202
+Dec  6 14:04:58 gitlab-instance-1 sshd[1892829]: Received disconnect from 92.255.85.237 port 31202:11: Bye Bye [preauth]
+Dec  6 14:04:58 gitlab-instance-1 sshd[1892829]: Disconnected from invalid user admin 92.255.85.237 port 31202 [preauth]
+Dec  6 14:16:36 gitlab-instance-1 sshd[1893939]: Invalid user admin from 92.255.85.237 port 20012
+Dec  6 14:16:36 gitlab-instance-1 sshd[1893939]: Received disconnect from 92.255.85.237 port 20012:11: Bye Bye [preauth]
+Dec  6 14:16:36 gitlab-instance-1 sshd[1893939]: Disconnected from invalid user admin 92.255.85.237 port 20012 [preauth]
+Dec  6 14:17:01 gitlab-instance-1 CRON[1893983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 14:17:01 gitlab-instance-1 CRON[1893983]: pam_unix(cron:session): session closed for user root
+Dec  6 14:20:39 gitlab-instance-1 sshd[1894364]: Accepted publickey for zim from 160.152.17.128 port 59298 ssh2: RSA SHA256:iydjyp8bbgUWtTvuYDI1GCHKqnbIkowy2D1U7OnsMiY
+Dec  6 14:20:39 gitlab-instance-1 sshd[1894364]: pam_unix(sshd:session): session opened for user zim by (uid=0)
+Dec  6 14:20:39 gitlab-instance-1 systemd-logind[855]: New session 366 of user zim.
+Dec  6 14:20:39 gitlab-instance-1 systemd: pam_unix(systemd-user:session): session opened for user zim by (uid=0)
+Dec  6 14:24:45 gitlab-instance-1 sshd[1894476]: Received disconnect from 160.152.17.128 port 59298:11: disconnected by user
+Dec  6 14:24:45 gitlab-instance-1 sshd[1894476]: Disconnected from user zim 160.152.17.128 port 59298
+Dec  6 14:24:45 gitlab-instance-1 sshd[1894364]: pam_unix(sshd:session): session closed for user zim
+Dec  6 14:24:45 gitlab-instance-1 systemd-logind[855]: Session 366 logged out. Waiting for processes to exit.
+Dec  6 14:24:45 gitlab-instance-1 systemd-logind[855]: Removed session 366.
+Dec  6 14:31:18 gitlab-instance-1 sshd[1895522]: Invalid user admin from 176.111.173.237 port 52526
+Dec  6 14:31:18 gitlab-instance-1 sshd[1895522]: Received disconnect from 176.111.173.237 port 52526:11: Bye Bye [preauth]
+Dec  6 14:31:18 gitlab-instance-1 sshd[1895522]: Disconnected from invalid user admin 176.111.173.237 port 52526 [preauth]
+Dec  6 14:41:02 gitlab-instance-1 sshd[1896466]: Invalid user admin from 92.255.85.237 port 62120
+Dec  6 14:41:02 gitlab-instance-1 sshd[1896466]: Received disconnect from 92.255.85.237 port 62120:11: Bye Bye [preauth]
+Dec  6 14:41:02 gitlab-instance-1 sshd[1896466]: Disconnected from invalid user admin 92.255.85.237 port 62120 [preauth]
+Dec  6 14:54:49 gitlab-instance-1 sshd[1897797]: Invalid user admln from 92.255.85.37 port 18964
+Dec  6 14:54:49 gitlab-instance-1 sshd[1897797]: Received disconnect from 92.255.85.37 port 18964:11: Bye Bye [preauth]
+Dec  6 14:54:49 gitlab-instance-1 sshd[1897797]: Disconnected from invalid user admln 92.255.85.37 port 18964 [preauth]
+Dec  6 15:02:59 gitlab-instance-1 sshd[1898570]: Connection closed by 185.100.87.129 port 50671 [preauth]
+Dec  6 15:08:23 gitlab-instance-1 sshd[1899136]: Connection closed by authenticating user root 162.247.74.202 port 33416 [preauth]
+Dec  6 15:11:08 gitlab-instance-1 sshd[1899402]: Invalid user super from 176.111.173.237 port 29374
+Dec  6 15:11:09 gitlab-instance-1 sshd[1899402]: Received disconnect from 176.111.173.237 port 29374:11: Bye Bye [preauth]
+Dec  6 15:11:09 gitlab-instance-1 sshd[1899402]: Disconnected from invalid user super 176.111.173.237 port 29374 [preauth]
+Dec  6 15:11:33 gitlab-instance-1 sshd[1899442]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 15:11:45 gitlab-instance-1 sshd[1899464]: Unable to negotiate with 141.98.10.63 port 39978: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 15:17:01 gitlab-instance-1 CRON[1899991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 15:17:01 gitlab-instance-1 CRON[1899991]: pam_unix(cron:session): session closed for user root
+Dec  6 15:21:32 gitlab-instance-1 sshd[1900431]: Invalid user suporte from 92.255.85.37 port 17310
+Dec  6 15:21:33 gitlab-instance-1 sshd[1900431]: Received disconnect from 92.255.85.37 port 17310:11: Bye Bye [preauth]
+Dec  6 15:21:33 gitlab-instance-1 sshd[1900431]: Disconnected from invalid user suporte 92.255.85.37 port 17310 [preauth]
+Dec  6 15:32:54 gitlab-instance-1 sshd[1901546]: Invalid user support from 92.255.85.37 port 47572
+Dec  6 15:32:54 gitlab-instance-1 sshd[1901546]: Received disconnect from 92.255.85.37 port 47572:11: Bye Bye [preauth]
+Dec  6 15:32:54 gitlab-instance-1 sshd[1901546]: Disconnected from invalid user support 92.255.85.37 port 47572 [preauth]
+Dec  6 15:46:49 gitlab-instance-1 sshd[1902888]: Invalid user support from 92.255.85.237 port 22786
+Dec  6 15:46:50 gitlab-instance-1 sshd[1902888]: Received disconnect from 92.255.85.237 port 22786:11: Bye Bye [preauth]
+Dec  6 15:46:50 gitlab-instance-1 sshd[1902888]: Disconnected from invalid user support 92.255.85.237 port 22786 [preauth]
+Dec  6 15:52:44 gitlab-instance-1 sshd[1903478]: error: kex_exchange_identification: banner line contains invalid characters
+Dec  6 15:59:53 gitlab-instance-1 sshd[1904178]: Invalid user support from 92.255.85.237 port 54854
+Dec  6 15:59:53 gitlab-instance-1 sshd[1904178]: Received disconnect from 92.255.85.237 port 54854:11: Bye Bye [preauth]
+Dec  6 15:59:53 gitlab-instance-1 sshd[1904178]: Disconnected from invalid user support 92.255.85.237 port 54854 [preauth]
+Dec  6 16:01:27 gitlab-instance-1 sshd[1904336]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 16:02:30 gitlab-instance-1 sshd[1904459]: Unable to negotiate with 23.183.82.180 port 37010: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 16:02:52 gitlab-instance-1 sshd[1904493]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 16:03:17 gitlab-instance-1 sshd[1904532]: Unable to negotiate with 212.192.241.37 port 42386: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 16:03:37 gitlab-instance-1 sshd[1904564]: Unable to negotiate with 23.183.82.180 port 41390: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 16:03:45 gitlab-instance-1 sshd[1904577]: Unable to negotiate with 212.192.241.37 port 50950: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 16:12:52 gitlab-instance-1 sshd[1905480]: Received disconnect from 92.255.85.37 port 48182:11: Bye Bye [preauth]
+Dec  6 16:12:52 gitlab-instance-1 sshd[1905480]: Disconnected from authenticating user sync 92.255.85.37 port 48182 [preauth]
+Dec  6 16:17:01 gitlab-instance-1 CRON[1905886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 16:17:01 gitlab-instance-1 CRON[1905886]: pam_unix(cron:session): session closed for user root
+Dec  6 16:24:51 gitlab-instance-1 sshd[1906660]: Invalid user sysadmin from 92.255.85.37 port 36108
+Dec  6 16:24:51 gitlab-instance-1 sshd[1906660]: Received disconnect from 92.255.85.37 port 36108:11: Bye Bye [preauth]
+Dec  6 16:24:51 gitlab-instance-1 sshd[1906660]: Disconnected from invalid user sysadmin 92.255.85.37 port 36108 [preauth]
+Dec  6 16:41:41 gitlab-instance-1 sshd[1908294]: Invalid user teamspeak from 176.111.173.237 port 50456
+Dec  6 16:41:41 gitlab-instance-1 sshd[1908294]: Received disconnect from 176.111.173.237 port 50456:11: Bye Bye [preauth]
+Dec  6 16:41:41 gitlab-instance-1 sshd[1908294]: Disconnected from invalid user teamspeak 176.111.173.237 port 50456 [preauth]
+Dec  6 16:45:29 gitlab-instance-1 sshd[1908669]: Invalid user facturalista from 94.232.46.202 port 42974
+Dec  6 16:45:29 gitlab-instance-1 sshd[1908669]: Connection closed by invalid user facturalista 94.232.46.202 port 42974 [preauth]
+Dec  6 16:51:41 gitlab-instance-1 sshd[1909278]: Invalid user test from 92.255.85.37 port 48788
+Dec  6 16:51:41 gitlab-instance-1 sshd[1909278]: Received disconnect from 92.255.85.37 port 48788:11: Bye Bye [preauth]
+Dec  6 16:51:41 gitlab-instance-1 sshd[1909278]: Disconnected from invalid user test 92.255.85.37 port 48788 [preauth]
+Dec  6 16:58:23 gitlab-instance-1 sshd[1909920]: Connection closed by 66.240.236.109 port 54130 [preauth]
+Dec  6 17:03:45 gitlab-instance-1 sshd[1910464]: Invalid user test from 92.255.85.37 port 52760
+Dec  6 17:03:45 gitlab-instance-1 sshd[1910464]: Received disconnect from 92.255.85.37 port 52760:11: Bye Bye [preauth]
+Dec  6 17:03:45 gitlab-instance-1 sshd[1910464]: Disconnected from invalid user test 92.255.85.37 port 52760 [preauth]
+Dec  6 17:16:12 gitlab-instance-1 sshd[1911724]: Invalid user test from 92.255.85.237 port 46260
+Dec  6 17:16:12 gitlab-instance-1 sshd[1911724]: Received disconnect from 92.255.85.237 port 46260:11: Bye Bye [preauth]
+Dec  6 17:16:12 gitlab-instance-1 sshd[1911724]: Disconnected from invalid user test 92.255.85.237 port 46260 [preauth]
+Dec  6 17:17:01 gitlab-instance-1 CRON[1911800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 17:17:01 gitlab-instance-1 CRON[1911800]: pam_unix(cron:session): session closed for user root
+Dec  6 17:30:39 gitlab-instance-1 sshd[1913120]: Invalid user test from 92.255.85.37 port 61816
+Dec  6 17:30:39 gitlab-instance-1 sshd[1913120]: Received disconnect from 92.255.85.37 port 61816:11: Bye Bye [preauth]
+Dec  6 17:30:39 gitlab-instance-1 sshd[1913120]: Disconnected from invalid user test 92.255.85.37 port 61816 [preauth]
+Dec  6 17:44:18 gitlab-instance-1 sshd[1914452]: Invalid user test from 92.255.85.237 port 62784
+Dec  6 17:44:18 gitlab-instance-1 sshd[1914452]: Received disconnect from 92.255.85.237 port 62784:11: Bye Bye [preauth]
+Dec  6 17:44:18 gitlab-instance-1 sshd[1914452]: Disconnected from invalid user test 92.255.85.237 port 62784 [preauth]
+Dec  6 17:55:51 gitlab-instance-1 sshd[1915586]: Invalid user test from 92.255.85.237 port 50690
+Dec  6 17:55:51 gitlab-instance-1 sshd[1915586]: Received disconnect from 92.255.85.237 port 50690:11: Bye Bye [preauth]
+Dec  6 17:55:51 gitlab-instance-1 sshd[1915586]: Disconnected from invalid user test 92.255.85.237 port 50690 [preauth]
+Dec  6 18:09:48 gitlab-instance-1 sshd[1916940]: Invalid user testuser from 176.111.173.237 port 39724
+Dec  6 18:09:48 gitlab-instance-1 sshd[1916940]: Received disconnect from 176.111.173.237 port 39724:11: Bye Bye [preauth]
+Dec  6 18:09:48 gitlab-instance-1 sshd[1916940]: Disconnected from invalid user testuser 176.111.173.237 port 39724 [preauth]
+Dec  6 18:17:01 gitlab-instance-1 CRON[1917635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 18:17:01 gitlab-instance-1 CRON[1917635]: pam_unix(cron:session): session closed for user root
+Dec  6 18:24:10 gitlab-instance-1 sshd[1918336]: Invalid user testuser from 176.111.173.237 port 58358
+Dec  6 18:24:10 gitlab-instance-1 sshd[1918336]: Received disconnect from 176.111.173.237 port 58358:11: Bye Bye [preauth]
+Dec  6 18:24:10 gitlab-instance-1 sshd[1918336]: Disconnected from invalid user testuser 176.111.173.237 port 58358 [preauth]
+Dec  6 18:34:56 gitlab-instance-1 sshd[1919417]: Invalid user timemachine from 92.255.85.37 port 16822
+Dec  6 18:34:56 gitlab-instance-1 sshd[1919417]: Received disconnect from 92.255.85.37 port 16822:11: Bye Bye [preauth]
+Dec  6 18:34:56 gitlab-instance-1 sshd[1919417]: Disconnected from invalid user timemachine 92.255.85.37 port 16822 [preauth]
+Dec  6 18:44:01 gitlab-instance-1 CRON[1920295]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 18:44:01 gitlab-instance-1 CRON[1920295]: pam_unix(cron:session): session closed for user root
+Dec  6 18:49:21 gitlab-instance-1 sshd[1920801]: Invalid user tomcat7 from 92.255.85.237 port 37580
+Dec  6 18:49:21 gitlab-instance-1 sshd[1920801]: Received disconnect from 92.255.85.237 port 37580:11: Bye Bye [preauth]
+Dec  6 18:49:21 gitlab-instance-1 sshd[1920801]: Disconnected from invalid user tomcat7 92.255.85.237 port 37580 [preauth]
+Dec  6 18:56:14 gitlab-instance-1 sshd[1921495]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 18:56:30 gitlab-instance-1 sshd[1921523]: Unable to negotiate with 212.192.241.37 port 40062: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 18:56:58 gitlab-instance-1 sshd[1921569]: Unable to negotiate with 212.192.241.37 port 48108: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 19:01:01 gitlab-instance-1 sshd[1921978]: Invalid user tom from 92.255.85.37 port 44344
+Dec  6 19:01:01 gitlab-instance-1 sshd[1921978]: Received disconnect from 92.255.85.37 port 44344:11: Bye Bye [preauth]
+Dec  6 19:01:01 gitlab-instance-1 sshd[1921978]: Disconnected from invalid user tom 92.255.85.37 port 44344 [preauth]
+Dec  6 19:14:07 gitlab-instance-1 sshd[1923251]: error: kex_exchange_identification: banner line contains invalid characters
+Dec  6 19:15:22 gitlab-instance-1 sshd[1923372]: Invalid user toor from 176.111.173.237 port 5504
+Dec  6 19:15:22 gitlab-instance-1 sshd[1923372]: Received disconnect from 176.111.173.237 port 5504:11: Bye Bye [preauth]
+Dec  6 19:15:22 gitlab-instance-1 sshd[1923372]: Disconnected from invalid user toor 176.111.173.237 port 5504 [preauth]
+Dec  6 19:17:01 gitlab-instance-1 CRON[1923545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 19:17:01 gitlab-instance-1 CRON[1923545]: pam_unix(cron:session): session closed for user root
+Dec  6 19:27:31 gitlab-instance-1 sshd[1924555]: Invalid user train from 92.255.85.237 port 22604
+Dec  6 19:27:31 gitlab-instance-1 sshd[1924555]: Received disconnect from 92.255.85.237 port 22604:11: Bye Bye [preauth]
+Dec  6 19:27:31 gitlab-instance-1 sshd[1924555]: Disconnected from invalid user train 92.255.85.237 port 22604 [preauth]
+Dec  6 19:41:53 gitlab-instance-1 sshd[1925967]: Invalid user ubnt from 176.111.173.237 port 38798
+Dec  6 19:41:53 gitlab-instance-1 sshd[1925967]: Received disconnect from 176.111.173.237 port 38798:11: Bye Bye [preauth]
+Dec  6 19:41:53 gitlab-instance-1 sshd[1925967]: Disconnected from invalid user ubnt 176.111.173.237 port 38798 [preauth]
+Dec  6 19:54:36 gitlab-instance-1 sshd[1927194]: Received disconnect from 176.111.173.237 port 40514:11: Bye Bye [preauth]
+Dec  6 19:54:36 gitlab-instance-1 sshd[1927194]: Disconnected from authenticating user ubuntu 176.111.173.237 port 40514 [preauth]
+Dec  6 20:04:53 gitlab-instance-1 sshd[1928219]: Invalid user upload from 92.255.85.37 port 59146
+Dec  6 20:04:53 gitlab-instance-1 sshd[1928219]: Received disconnect from 92.255.85.37 port 59146:11: Bye Bye [preauth]
+Dec  6 20:04:53 gitlab-instance-1 sshd[1928219]: Disconnected from invalid user upload 92.255.85.37 port 59146 [preauth]
+Dec  6 20:07:29 gitlab-instance-1 sshd[1928453]: Connection closed by 209.17.97.66 port 53771 [preauth]
+Dec  6 20:16:47 gitlab-instance-1 sshd[1929391]: Invalid user user from 92.255.85.237 port 47310
+Dec  6 20:16:47 gitlab-instance-1 sshd[1929391]: Received disconnect from 92.255.85.237 port 47310:11: Bye Bye [preauth]
+Dec  6 20:16:47 gitlab-instance-1 sshd[1929391]: Disconnected from invalid user user 92.255.85.237 port 47310 [preauth]
+Dec  6 20:17:01 gitlab-instance-1 CRON[1929417]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 20:17:01 gitlab-instance-1 CRON[1929417]: pam_unix(cron:session): session closed for user root
+Dec  6 20:22:35 gitlab-instance-1 sshd[1929927]: Connection closed by 162.142.125.57 port 58856 [preauth]
+Dec  6 20:29:04 gitlab-instance-1 sshd[1930587]: Invalid user user from 92.255.85.237 port 16768
+Dec  6 20:29:04 gitlab-instance-1 sshd[1930587]: Received disconnect from 92.255.85.237 port 16768:11: Bye Bye [preauth]
+Dec  6 20:29:04 gitlab-instance-1 sshd[1930587]: Disconnected from invalid user user 92.255.85.237 port 16768 [preauth]
+Dec  6 20:33:00 gitlab-instance-1 sshd[1930971]: error: maximum authentication attempts exceeded for root from 117.248.249.70 port 52664 ssh2 [preauth]
+Dec  6 20:33:00 gitlab-instance-1 sshd[1930971]: Disconnecting authenticating user root 117.248.249.70 port 52664: Too many authentication failures [preauth]
+Dec  6 20:33:03 gitlab-instance-1 sshd[1930977]: error: maximum authentication attempts exceeded for root from 117.248.249.70 port 53131 ssh2 [preauth]
+Dec  6 20:33:03 gitlab-instance-1 sshd[1930977]: Disconnecting authenticating user root 117.248.249.70 port 53131: Too many authentication failures [preauth]
+Dec  6 20:33:05 gitlab-instance-1 sshd[1930984]: Received disconnect from 117.248.249.70 port 53355:11: disconnected by user [preauth]
+Dec  6 20:33:05 gitlab-instance-1 sshd[1930984]: Disconnected from authenticating user root 117.248.249.70 port 53355 [preauth]
+Dec  6 20:33:34 gitlab-instance-1 sshd[1931030]: error: maximum authentication attempts exceeded for root from 117.248.249.70 port 55973 ssh2 [preauth]
+Dec  6 20:33:34 gitlab-instance-1 sshd[1931030]: Disconnecting authenticating user root 117.248.249.70 port 55973: Too many authentication failures [preauth]
+Dec  6 20:33:37 gitlab-instance-1 sshd[1931037]: error: maximum authentication attempts exceeded for root from 117.248.249.70 port 56572 ssh2 [preauth]
+Dec  6 20:33:37 gitlab-instance-1 sshd[1931037]: Disconnecting authenticating user root 117.248.249.70 port 56572: Too many authentication failures [preauth]
+Dec  6 20:33:39 gitlab-instance-1 sshd[1931044]: Received disconnect from 117.248.249.70 port 56934:11: disconnected by user [preauth]
+Dec  6 20:33:39 gitlab-instance-1 sshd[1931044]: Disconnected from authenticating user root 117.248.249.70 port 56934 [preauth]
+Dec  6 20:33:41 gitlab-instance-1 sshd[1931050]: Invalid user admin from 117.248.249.70 port 57066
+Dec  6 20:33:42 gitlab-instance-1 sshd[1931050]: error: maximum authentication attempts exceeded for invalid user admin from 117.248.249.70 port 57066 ssh2 [preauth]
+Dec  6 20:33:42 gitlab-instance-1 sshd[1931050]: Disconnecting invalid user admin 117.248.249.70 port 57066: Too many authentication failures [preauth]
+Dec  6 20:33:44 gitlab-instance-1 sshd[1931058]: Invalid user admin from 117.248.249.70 port 57205
+Dec  6 20:33:45 gitlab-instance-1 sshd[1931058]: error: maximum authentication attempts exceeded for invalid user admin from 117.248.249.70 port 57205 ssh2 [preauth]
+Dec  6 20:33:45 gitlab-instance-1 sshd[1931058]: Disconnecting invalid user admin 117.248.249.70 port 57205: Too many authentication failures [preauth]
+Dec  6 20:33:46 gitlab-instance-1 sshd[1931064]: Invalid user admin from 117.248.249.70 port 57685
+Dec  6 20:33:47 gitlab-instance-1 sshd[1931064]: Received disconnect from 117.248.249.70 port 57685:11: disconnected by user [preauth]
+Dec  6 20:33:47 gitlab-instance-1 sshd[1931064]: Disconnected from invalid user admin 117.248.249.70 port 57685 [preauth]
+Dec  6 20:33:48 gitlab-instance-1 sshd[1931071]: Invalid user oracle from 117.248.249.70 port 58005
+Dec  6 20:33:50 gitlab-instance-1 sshd[1931071]: error: maximum authentication attempts exceeded for invalid user oracle from 117.248.249.70 port 58005 ssh2 [preauth]
+Dec  6 20:33:50 gitlab-instance-1 sshd[1931071]: Disconnecting invalid user oracle 117.248.249.70 port 58005: Too many authentication failures [preauth]
+Dec  6 20:33:51 gitlab-instance-1 sshd[1931077]: Invalid user oracle from 117.248.249.70 port 58263
+Dec  6 20:33:53 gitlab-instance-1 sshd[1931077]: error: maximum authentication attempts exceeded for invalid user oracle from 117.248.249.70 port 58263 ssh2 [preauth]
+Dec  6 20:33:53 gitlab-instance-1 sshd[1931077]: Disconnecting invalid user oracle 117.248.249.70 port 58263: Too many authentication failures [preauth]
+Dec  6 20:33:54 gitlab-instance-1 sshd[1931084]: Invalid user oracle from 117.248.249.70 port 58397
+Dec  6 20:33:55 gitlab-instance-1 sshd[1931084]: Received disconnect from 117.248.249.70 port 58397:11: disconnected by user [preauth]
+Dec  6 20:33:55 gitlab-instance-1 sshd[1931084]: Disconnected from invalid user oracle 117.248.249.70 port 58397 [preauth]
+Dec  6 20:33:56 gitlab-instance-1 sshd[1931086]: Invalid user usuario from 117.248.249.70 port 58469
+Dec  6 20:33:58 gitlab-instance-1 sshd[1931086]: error: maximum authentication attempts exceeded for invalid user usuario from 117.248.249.70 port 58469 ssh2 [preauth]
+Dec  6 20:33:58 gitlab-instance-1 sshd[1931086]: Disconnecting invalid user usuario 117.248.249.70 port 58469: Too many authentication failures [preauth]
+Dec  6 20:44:15 gitlab-instance-1 sshd[1932098]: Invalid user vps from 176.111.173.237 port 7882
+Dec  6 20:44:15 gitlab-instance-1 sshd[1932098]: Received disconnect from 176.111.173.237 port 7882:11: Bye Bye [preauth]
+Dec  6 20:44:15 gitlab-instance-1 sshd[1932098]: Disconnected from invalid user vps 176.111.173.237 port 7882 [preauth]
+Dec  6 20:54:30 gitlab-instance-1 sshd[1933106]: Invalid user wordpress from 92.255.85.237 port 19680
+Dec  6 20:54:30 gitlab-instance-1 sshd[1933106]: Received disconnect from 92.255.85.237 port 19680:11: Bye Bye [preauth]
+Dec  6 20:54:30 gitlab-instance-1 sshd[1933106]: Disconnected from invalid user wordpress 92.255.85.237 port 19680 [preauth]
+Dec  6 21:07:22 gitlab-instance-1 sshd[1934359]: Invalid user xihoiwhe from 92.255.85.237 port 62412
+Dec  6 21:07:22 gitlab-instance-1 sshd[1934359]: Received disconnect from 92.255.85.237 port 62412:11: Bye Bye [preauth]
+Dec  6 21:07:22 gitlab-instance-1 sshd[1934359]: Disconnected from invalid user xihoiwhe 92.255.85.237 port 62412 [preauth]
+Dec  6 21:17:01 gitlab-instance-1 CRON[1935320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 21:17:01 gitlab-instance-1 CRON[1935320]: pam_unix(cron:session): session closed for user root
+Dec  6 21:22:33 gitlab-instance-1 sshd[1935859]: Invalid user admin from 92.255.85.237 port 38412
+Dec  6 21:22:33 gitlab-instance-1 sshd[1935859]: Received disconnect from 92.255.85.237 port 38412:11: Bye Bye [preauth]
+Dec  6 21:22:33 gitlab-instance-1 sshd[1935859]: Disconnected from invalid user admin 92.255.85.237 port 38412 [preauth]
+Dec  6 21:36:14 gitlab-instance-1 sshd[1937194]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 21:36:25 gitlab-instance-1 sshd[1937208]: Invalid user admin from 176.111.173.237 port 42590
+Dec  6 21:36:25 gitlab-instance-1 sshd[1937208]: Received disconnect from 176.111.173.237 port 42590:11: Bye Bye [preauth]
+Dec  6 21:36:25 gitlab-instance-1 sshd[1937208]: Disconnected from invalid user admin 176.111.173.237 port 42590 [preauth]
+Dec  6 21:37:00 gitlab-instance-1 sshd[1937269]: Unable to negotiate with 23.183.82.135 port 60844: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 21:46:09 gitlab-instance-1 sshd[1938162]: Invalid user admin from 92.255.85.37 port 22496
+Dec  6 21:46:09 gitlab-instance-1 sshd[1938162]: Received disconnect from 92.255.85.37 port 22496:11: Bye Bye [preauth]
+Dec  6 21:46:09 gitlab-instance-1 sshd[1938162]: Disconnected from invalid user admin 92.255.85.37 port 22496 [preauth]
+Dec  6 21:48:39 gitlab-instance-1 sshd[1938407]: Invalid user admin from 45.155.204.39 port 16379
+Dec  6 21:48:40 gitlab-instance-1 sshd[1938407]: Received disconnect from 45.155.204.39 port 16379:11: Client disconnecting normally [preauth]
+Dec  6 21:48:40 gitlab-instance-1 sshd[1938407]: Disconnected from invalid user admin 45.155.204.39 port 16379 [preauth]
+Dec  6 21:59:06 gitlab-instance-1 sshd[1939437]: Invalid user admin from 92.255.85.37 port 38470
+Dec  6 21:59:06 gitlab-instance-1 sshd[1939437]: Received disconnect from 92.255.85.37 port 38470:11: Bye Bye [preauth]
+Dec  6 21:59:06 gitlab-instance-1 sshd[1939437]: Disconnected from invalid user admin 92.255.85.37 port 38470 [preauth]
+Dec  6 22:14:21 gitlab-instance-1 sshd[1940925]: Invalid user admin from 92.255.85.237 port 51992
+Dec  6 22:14:21 gitlab-instance-1 sshd[1940925]: Received disconnect from 92.255.85.237 port 51992:11: Bye Bye [preauth]
+Dec  6 22:14:21 gitlab-instance-1 sshd[1940925]: Disconnected from invalid user admin 92.255.85.237 port 51992 [preauth]
+Dec  6 22:17:01 gitlab-instance-1 CRON[1941200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 22:17:01 gitlab-instance-1 CRON[1941200]: pam_unix(cron:session): session closed for user root
+Dec  6 22:27:16 gitlab-instance-1 sshd[1942190]: Invalid user admin from 92.255.85.37 port 32814
+Dec  6 22:27:16 gitlab-instance-1 sshd[1942190]: Received disconnect from 92.255.85.37 port 32814:11: Bye Bye [preauth]
+Dec  6 22:27:16 gitlab-instance-1 sshd[1942190]: Disconnected from invalid user admin 92.255.85.37 port 32814 [preauth]
+Dec  6 22:36:05 gitlab-instance-1 sshd[1943049]: error: kex_exchange_identification: Connection closed by remote host
+Dec  6 22:36:49 gitlab-instance-1 sshd[1943124]: Unable to negotiate with 209.141.47.245 port 39584: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  6 22:40:54 gitlab-instance-1 sshd[1943515]: Invalid user admin from 176.111.173.237 port 11094
+Dec  6 22:40:55 gitlab-instance-1 sshd[1943515]: Received disconnect from 176.111.173.237 port 11094:11: Bye Bye [preauth]
+Dec  6 22:40:55 gitlab-instance-1 sshd[1943515]: Disconnected from invalid user admin 176.111.173.237 port 11094 [preauth]
+Dec  6 22:44:12 gitlab-instance-1 sshd[1943841]: Connection closed by 198.199.109.133 port 36820 [preauth]
+Dec  6 22:50:24 gitlab-instance-1 sshd[1944448]: Invalid user admin from 92.255.85.237 port 63624
+Dec  6 22:50:24 gitlab-instance-1 sshd[1944448]: Received disconnect from 92.255.85.237 port 63624:11: Bye Bye [preauth]
+Dec  6 22:50:24 gitlab-instance-1 sshd[1944448]: Disconnected from invalid user admin 92.255.85.237 port 63624 [preauth]
+Dec  6 23:03:32 gitlab-instance-1 sshd[1945727]: Received disconnect from 188.119.65.177 port 36656:11: Bye Bye [preauth]
+Dec  6 23:03:32 gitlab-instance-1 sshd[1945727]: Disconnected from authenticating user root 188.119.65.177 port 36656 [preauth]
+Dec  6 23:05:10 gitlab-instance-1 sshd[1945902]: Invalid user admin from 92.255.85.37 port 23812
+Dec  6 23:05:10 gitlab-instance-1 sshd[1945902]: Received disconnect from 92.255.85.37 port 23812:11: Bye Bye [preauth]
+Dec  6 23:05:10 gitlab-instance-1 sshd[1945902]: Disconnected from invalid user admin 92.255.85.37 port 23812 [preauth]
+Dec  6 23:07:52 gitlab-instance-1 sshd[1946169]: Received disconnect from 188.119.65.177 port 50638:11: Bye Bye [preauth]
+Dec  6 23:07:52 gitlab-instance-1 sshd[1946169]: Disconnected from authenticating user root 188.119.65.177 port 50638 [preauth]
+Dec  6 23:12:21 gitlab-instance-1 sshd[1946601]: Received disconnect from 188.119.65.177 port 38818:11: Bye Bye [preauth]
+Dec  6 23:12:21 gitlab-instance-1 sshd[1946601]: Disconnected from authenticating user root 188.119.65.177 port 38818 [preauth]
+Dec  6 23:15:54 gitlab-instance-1 sshd[1946973]: Invalid user admin from 92.255.85.237 port 20716
+Dec  6 23:15:55 gitlab-instance-1 sshd[1946973]: Received disconnect from 92.255.85.237 port 20716:11: Bye Bye [preauth]
+Dec  6 23:15:55 gitlab-instance-1 sshd[1946973]: Disconnected from invalid user admin 92.255.85.237 port 20716 [preauth]
+Dec  6 23:16:21 gitlab-instance-1 sshd[1947009]: Received disconnect from 188.119.65.177 port 41230:11: Bye Bye [preauth]
+Dec  6 23:16:21 gitlab-instance-1 sshd[1947009]: Disconnected from authenticating user root 188.119.65.177 port 41230 [preauth]
+Dec  6 23:17:01 gitlab-instance-1 CRON[1947083]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 23:17:01 gitlab-instance-1 CRON[1947083]: pam_unix(cron:session): session closed for user root
+Dec  6 23:20:00 gitlab-instance-1 sshd[1947363]: Received disconnect from 188.119.65.177 port 34430:11: Bye Bye [preauth]
+Dec  6 23:20:00 gitlab-instance-1 sshd[1947363]: Disconnected from authenticating user root 188.119.65.177 port 34430 [preauth]
+Dec  6 23:23:17 gitlab-instance-1 sshd[1947673]: Received disconnect from 188.119.65.177 port 41208:11: Bye Bye [preauth]
+Dec  6 23:23:17 gitlab-instance-1 sshd[1947673]: Disconnected from authenticating user root 188.119.65.177 port 41208 [preauth]
+Dec  6 23:26:39 gitlab-instance-1 sshd[1948005]: Received disconnect from 188.119.65.177 port 47252:11: Bye Bye [preauth]
+Dec  6 23:26:39 gitlab-instance-1 sshd[1948005]: Disconnected from authenticating user root 188.119.65.177 port 47252 [preauth]
+Dec  6 23:29:52 gitlab-instance-1 sshd[1948332]: Invalid user admin from 92.255.85.237 port 61586
+Dec  6 23:29:52 gitlab-instance-1 sshd[1948332]: Received disconnect from 92.255.85.237 port 61586:11: Bye Bye [preauth]
+Dec  6 23:29:52 gitlab-instance-1 sshd[1948332]: Disconnected from invalid user admin 92.255.85.237 port 61586 [preauth]
+Dec  6 23:30:00 gitlab-instance-1 sshd[1948339]: Received disconnect from 188.119.65.177 port 49854:11: Bye Bye [preauth]
+Dec  6 23:30:00 gitlab-instance-1 sshd[1948339]: Disconnected from authenticating user root 188.119.65.177 port 49854 [preauth]
+Dec  6 23:33:33 gitlab-instance-1 sshd[1948688]: Received disconnect from 188.119.65.177 port 55572:11: Bye Bye [preauth]
+Dec  6 23:33:33 gitlab-instance-1 sshd[1948688]: Disconnected from authenticating user root 188.119.65.177 port 55572 [preauth]
+Dec  6 23:36:47 gitlab-instance-1 sshd[1949004]: Received disconnect from 188.119.65.177 port 53674:11: Bye Bye [preauth]
+Dec  6 23:36:47 gitlab-instance-1 sshd[1949004]: Disconnected from authenticating user root 188.119.65.177 port 53674 [preauth]
+Dec  6 23:40:11 gitlab-instance-1 sshd[1949351]: Received disconnect from 188.119.65.177 port 53616:11: Bye Bye [preauth]
+Dec  6 23:40:11 gitlab-instance-1 sshd[1949351]: Disconnected from authenticating user root 188.119.65.177 port 53616 [preauth]
+Dec  6 23:40:38 gitlab-instance-1 sshd[1949401]: Invalid user carlos from 91.223.67.146 port 36526
+Dec  6 23:40:38 gitlab-instance-1 sshd[1949401]: Received disconnect from 91.223.67.146 port 36526:11: Client disconnecting normally [preauth]
+Dec  6 23:40:38 gitlab-instance-1 sshd[1949401]: Disconnected from invalid user carlos 91.223.67.146 port 36526 [preauth]
+Dec  6 23:43:33 gitlab-instance-1 sshd[1949683]: Received disconnect from 188.119.65.177 port 53588:11: Bye Bye [preauth]
+Dec  6 23:43:33 gitlab-instance-1 sshd[1949683]: Disconnected from authenticating user root 188.119.65.177 port 53588 [preauth]
+Dec  6 23:46:57 gitlab-instance-1 sshd[1949990]: Received disconnect from 188.119.65.177 port 50726:11: Bye Bye [preauth]
+Dec  6 23:46:57 gitlab-instance-1 sshd[1949990]: Disconnected from authenticating user root 188.119.65.177 port 50726 [preauth]
+Dec  6 23:47:26 gitlab-instance-1 sshd[1950048]: Invalid user admin from 176.111.173.237 port 39792
+Dec  6 23:47:26 gitlab-instance-1 sshd[1950048]: Received disconnect from 176.111.173.237 port 39792:11: Bye Bye [preauth]
+Dec  6 23:47:26 gitlab-instance-1 sshd[1950048]: Disconnected from invalid user admin 176.111.173.237 port 39792 [preauth]
+Dec  6 23:50:13 gitlab-instance-1 sshd[1950315]: Received disconnect from 188.119.65.177 port 49760:11: Bye Bye [preauth]
+Dec  6 23:50:13 gitlab-instance-1 sshd[1950315]: Disconnected from authenticating user root 188.119.65.177 port 49760 [preauth]
+Dec  6 23:53:33 gitlab-instance-1 sshd[1950641]: Received disconnect from 188.119.65.177 port 46132:11: Bye Bye [preauth]
+Dec  6 23:53:33 gitlab-instance-1 sshd[1950641]: Disconnected from authenticating user root 188.119.65.177 port 46132 [preauth]
+Dec  6 23:55:53 gitlab-instance-1 sshd[1950886]: error: kex_exchange_identification: banner line contains invalid characters
+Dec  6 23:55:53 gitlab-instance-1 sshd[1950886]: error: send_error: write: Connection reset by peer
+Dec  6 23:56:02 gitlab-instance-1 sshd[1950902]: Invalid user admin from 92.255.85.37 port 33186
+Dec  6 23:56:02 gitlab-instance-1 sshd[1950902]: Received disconnect from 92.255.85.37 port 33186:11: Bye Bye [preauth]
+Dec  6 23:56:02 gitlab-instance-1 sshd[1950902]: Disconnected from invalid user admin 92.255.85.37 port 33186 [preauth]
+Dec  6 23:57:03 gitlab-instance-1 sshd[1950993]: Received disconnect from 188.119.65.177 port 47414:11: Bye Bye [preauth]
+Dec  6 23:57:03 gitlab-instance-1 sshd[1950993]: Disconnected from authenticating user root 188.119.65.177 port 47414 [preauth]
+Dec  7 00:00:12 gitlab-instance-1 sshd[1951320]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 00:00:20 gitlab-instance-1 sshd[1951324]: Received disconnect from 188.119.65.177 port 43342:11: Bye Bye [preauth]
+Dec  7 00:00:20 gitlab-instance-1 sshd[1951324]: Disconnected from authenticating user root 188.119.65.177 port 43342 [preauth]
+Dec  7 00:00:56 gitlab-instance-1 sshd[1951395]: Unable to negotiate with 167.172.43.16 port 36278: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:01:34 gitlab-instance-1 sshd[1951454]: Unable to negotiate with 167.172.43.16 port 37726: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:02:13 gitlab-instance-1 sshd[1951518]: Unable to negotiate with 167.172.43.16 port 39124: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:02:47 gitlab-instance-1 sshd[1951576]: Unable to negotiate with 167.172.43.16 port 40582: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:02:56 gitlab-instance-1 sshd[1951593]: Received disconnect from 209.141.42.136 port 53102:11: Bye Bye [preauth]
+Dec  7 00:02:56 gitlab-instance-1 sshd[1951593]: Disconnected from 209.141.42.136 port 53102 [preauth]
+Dec  7 00:03:22 gitlab-instance-1 sshd[1951637]: Unable to negotiate with 167.172.43.16 port 42088: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:04:00 gitlab-instance-1 sshd[1951702]: Unable to negotiate with 167.172.43.16 port 43538: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:04:03 gitlab-instance-1 sshd[1951692]: Received disconnect from 188.119.65.177 port 44712:11: Bye Bye [preauth]
+Dec  7 00:04:03 gitlab-instance-1 sshd[1951692]: Disconnected from authenticating user root 188.119.65.177 port 44712 [preauth]
+Dec  7 00:04:34 gitlab-instance-1 sshd[1951757]: Unable to negotiate with 167.172.43.16 port 44880: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:05:10 gitlab-instance-1 sshd[1951814]: Unable to negotiate with 167.172.43.16 port 46338: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:05:45 gitlab-instance-1 sshd[1951891]: Unable to negotiate with 167.172.43.16 port 47794: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:06:20 gitlab-instance-1 sshd[1951947]: Unable to negotiate with 167.172.43.16 port 49192: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:06:55 gitlab-instance-1 sshd[1952006]: Unable to negotiate with 167.172.43.16 port 50680: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:07:25 gitlab-instance-1 sshd[1952053]: Received disconnect from 188.119.65.177 port 38924:11: Bye Bye [preauth]
+Dec  7 00:07:25 gitlab-instance-1 sshd[1952053]: Disconnected from authenticating user root 188.119.65.177 port 38924 [preauth]
+Dec  7 00:07:31 gitlab-instance-1 sshd[1952071]: Unable to negotiate with 167.172.43.16 port 52050: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:08:04 gitlab-instance-1 sshd[1952147]: Unable to negotiate with 167.172.43.16 port 53524: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:08:36 gitlab-instance-1 sshd[1952199]: Invalid user admin from 92.255.85.237 port 59730
+Dec  7 00:08:36 gitlab-instance-1 sshd[1952199]: Received disconnect from 92.255.85.237 port 59730:11: Bye Bye [preauth]
+Dec  7 00:08:36 gitlab-instance-1 sshd[1952199]: Disconnected from invalid user admin 92.255.85.237 port 59730 [preauth]
+Dec  7 00:08:41 gitlab-instance-1 sshd[1952210]: Unable to negotiate with 167.172.43.16 port 54954: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:09:15 gitlab-instance-1 sshd[1952268]: Unable to negotiate with 167.172.43.16 port 56392: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:09:49 gitlab-instance-1 sshd[1952321]: Unable to negotiate with 167.172.43.16 port 57802: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:10:25 gitlab-instance-1 sshd[1952383]: Unable to negotiate with 167.172.43.16 port 59242: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:10:45 gitlab-instance-1 sshd[1952410]: Received disconnect from 188.119.65.177 port 57874:11: Bye Bye [preauth]
+Dec  7 00:10:45 gitlab-instance-1 sshd[1952410]: Disconnected from authenticating user root 188.119.65.177 port 57874 [preauth]
+Dec  7 00:10:59 gitlab-instance-1 sshd[1952447]: Unable to negotiate with 167.172.43.16 port 60716: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:11:33 gitlab-instance-1 sshd[1952503]: Unable to negotiate with 167.172.43.16 port 33906: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:12:11 gitlab-instance-1 sshd[1952561]: Unable to negotiate with 167.172.43.16 port 35386: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:13:58 gitlab-instance-1 sshd[1952730]: Received disconnect from 188.119.65.177 port 45424:11: Bye Bye [preauth]
+Dec  7 00:13:58 gitlab-instance-1 sshd[1952730]: Disconnected from authenticating user root 188.119.65.177 port 45424 [preauth]
+Dec  7 00:16:47 gitlab-instance-1 sshd[1953027]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 00:17:01 gitlab-instance-1 CRON[1953058]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 00:17:01 gitlab-instance-1 CRON[1953058]: pam_unix(cron:session): session closed for user root
+Dec  7 00:17:19 gitlab-instance-1 sshd[1953082]: Received disconnect from 188.119.65.177 port 34558:11: Bye Bye [preauth]
+Dec  7 00:17:19 gitlab-instance-1 sshd[1953082]: Disconnected from authenticating user root 188.119.65.177 port 34558 [preauth]
+Dec  7 00:18:07 gitlab-instance-1 sshd[1953163]: error: kex_exchange_identification: read: Connection reset by peer
+Dec  7 00:20:28 gitlab-instance-1 sshd[1953382]: Received disconnect from 188.119.65.177 port 48520:11: Bye Bye [preauth]
+Dec  7 00:20:28 gitlab-instance-1 sshd[1953382]: Disconnected from authenticating user root 188.119.65.177 port 48520 [preauth]
+Dec  7 00:20:54 gitlab-instance-1 sshd[1953434]: Invalid user admin from 92.255.85.37 port 20736
+Dec  7 00:20:55 gitlab-instance-1 sshd[1953434]: Received disconnect from 92.255.85.37 port 20736:11: Bye Bye [preauth]
+Dec  7 00:20:55 gitlab-instance-1 sshd[1953434]: Disconnected from invalid user admin 92.255.85.37 port 20736 [preauth]
+Dec  7 00:23:59 gitlab-instance-1 sshd[1953714]: Received disconnect from 188.119.65.177 port 38996:11: Bye Bye [preauth]
+Dec  7 00:23:59 gitlab-instance-1 sshd[1953714]: Disconnected from authenticating user root 188.119.65.177 port 38996 [preauth]
+Dec  7 00:27:23 gitlab-instance-1 sshd[1954044]: Received disconnect from 188.119.65.177 port 55568:11: Bye Bye [preauth]
+Dec  7 00:27:23 gitlab-instance-1 sshd[1954044]: Disconnected from authenticating user root 188.119.65.177 port 55568 [preauth]
+Dec  7 00:30:41 gitlab-instance-1 sshd[1954384]: Received disconnect from 188.119.65.177 port 42950:11: Bye Bye [preauth]
+Dec  7 00:30:41 gitlab-instance-1 sshd[1954384]: Disconnected from authenticating user root 188.119.65.177 port 42950 [preauth]
+Dec  7 00:33:53 gitlab-instance-1 sshd[1954696]: Invalid user admin from 92.255.85.237 port 17562
+Dec  7 00:33:53 gitlab-instance-1 sshd[1954696]: Received disconnect from 92.255.85.237 port 17562:11: Bye Bye [preauth]
+Dec  7 00:33:53 gitlab-instance-1 sshd[1954696]: Disconnected from invalid user admin 92.255.85.237 port 17562 [preauth]
+Dec  7 00:33:57 gitlab-instance-1 sshd[1954698]: Received disconnect from 188.119.65.177 port 57764:11: Bye Bye [preauth]
+Dec  7 00:33:57 gitlab-instance-1 sshd[1954698]: Disconnected from authenticating user root 188.119.65.177 port 57764 [preauth]
+Dec  7 00:37:25 gitlab-instance-1 sshd[1955038]: Received disconnect from 188.119.65.177 port 46236:11: Bye Bye [preauth]
+Dec  7 00:37:25 gitlab-instance-1 sshd[1955038]: Disconnected from authenticating user root 188.119.65.177 port 46236 [preauth]
+Dec  7 00:37:42 gitlab-instance-1 sshd[1955070]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 00:38:33 gitlab-instance-1 sshd[1955152]: Unable to negotiate with 23.183.82.135 port 37630: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 00:40:43 gitlab-instance-1 sshd[1955372]: Received disconnect from 188.119.65.177 port 59658:11: Bye Bye [preauth]
+Dec  7 00:40:43 gitlab-instance-1 sshd[1955372]: Disconnected from authenticating user root 188.119.65.177 port 59658 [preauth]
+Dec  7 00:44:00 gitlab-instance-1 sshd[1955689]: Received disconnect from 188.119.65.177 port 44008:11: Bye Bye [preauth]
+Dec  7 00:44:00 gitlab-instance-1 sshd[1955689]: Disconnected from authenticating user root 188.119.65.177 port 44008 [preauth]
+Dec  7 00:46:14 gitlab-instance-1 sshd[1955911]: Invalid user facturalista from 94.232.46.202 port 60966
+Dec  7 00:46:15 gitlab-instance-1 sshd[1955911]: Connection closed by invalid user facturalista 94.232.46.202 port 60966 [preauth]
+Dec  7 00:46:31 gitlab-instance-1 sshd[1955939]: Invalid user admin from 92.255.85.237 port 57852
+Dec  7 00:46:32 gitlab-instance-1 sshd[1955939]: Received disconnect from 92.255.85.237 port 57852:11: Bye Bye [preauth]
+Dec  7 00:46:32 gitlab-instance-1 sshd[1955939]: Disconnected from invalid user admin 92.255.85.237 port 57852 [preauth]
+Dec  7 00:47:18 gitlab-instance-1 sshd[1956003]: Received disconnect from 188.119.65.177 port 56828:11: Bye Bye [preauth]
+Dec  7 00:47:18 gitlab-instance-1 sshd[1956003]: Disconnected from authenticating user root 188.119.65.177 port 56828 [preauth]
+Dec  7 00:50:34 gitlab-instance-1 sshd[1956340]: Received disconnect from 188.119.65.177 port 40462:11: Bye Bye [preauth]
+Dec  7 00:50:34 gitlab-instance-1 sshd[1956340]: Disconnected from authenticating user root 188.119.65.177 port 40462 [preauth]
+Dec  7 00:53:48 gitlab-instance-1 sshd[1956653]: Received disconnect from 188.119.65.177 port 52048:11: Bye Bye [preauth]
+Dec  7 00:53:48 gitlab-instance-1 sshd[1956653]: Disconnected from authenticating user root 188.119.65.177 port 52048 [preauth]
+Dec  7 00:57:02 gitlab-instance-1 sshd[1956968]: Received disconnect from 188.119.65.177 port 33284:11: Bye Bye [preauth]
+Dec  7 00:57:02 gitlab-instance-1 sshd[1956968]: Disconnected from authenticating user root 188.119.65.177 port 33284 [preauth]
+Dec  7 00:58:48 gitlab-instance-1 sshd[1957145]: Invalid user admin from 92.255.85.37 port 15076
+Dec  7 00:58:48 gitlab-instance-1 sshd[1957145]: Received disconnect from 92.255.85.37 port 15076:11: Bye Bye [preauth]
+Dec  7 00:58:48 gitlab-instance-1 sshd[1957145]: Disconnected from invalid user admin 92.255.85.37 port 15076 [preauth]
+Dec  7 01:00:21 gitlab-instance-1 sshd[1957308]: Received disconnect from 188.119.65.177 port 45106:11: Bye Bye [preauth]
+Dec  7 01:00:21 gitlab-instance-1 sshd[1957308]: Disconnected from authenticating user root 188.119.65.177 port 45106 [preauth]
+Dec  7 01:03:33 gitlab-instance-1 sshd[1957617]: Received disconnect from 188.119.65.177 port 54148:11: Bye Bye [preauth]
+Dec  7 01:03:33 gitlab-instance-1 sshd[1957617]: Disconnected from authenticating user root 188.119.65.177 port 54148 [preauth]
+Dec  7 01:07:00 gitlab-instance-1 sshd[1957949]: Received disconnect from 188.119.65.177 port 38602:11: Bye Bye [preauth]
+Dec  7 01:07:00 gitlab-instance-1 sshd[1957949]: Disconnected from authenticating user root 188.119.65.177 port 38602 [preauth]
+Dec  7 01:10:09 gitlab-instance-1 sshd[1958261]: Received disconnect from 188.119.65.177 port 47426:11: Bye Bye [preauth]
+Dec  7 01:10:09 gitlab-instance-1 sshd[1958261]: Disconnected from authenticating user root 188.119.65.177 port 47426 [preauth]
+Dec  7 01:13:28 gitlab-instance-1 sshd[1958589]: Received disconnect from 188.119.65.177 port 57062:11: Bye Bye [preauth]
+Dec  7 01:13:28 gitlab-instance-1 sshd[1958589]: Disconnected from authenticating user root 188.119.65.177 port 57062 [preauth]
+Dec  7 01:14:05 gitlab-instance-1 sshd[1958656]: Invalid user admin from 92.255.85.237 port 46430
+Dec  7 01:14:05 gitlab-instance-1 sshd[1958656]: Received disconnect from 92.255.85.237 port 46430:11: Bye Bye [preauth]
+Dec  7 01:14:05 gitlab-instance-1 sshd[1958656]: Disconnected from invalid user admin 92.255.85.237 port 46430 [preauth]
+Dec  7 01:16:42 gitlab-instance-1 sshd[1958902]: Received disconnect from 188.119.65.177 port 36192:11: Bye Bye [preauth]
+Dec  7 01:16:42 gitlab-instance-1 sshd[1958902]: Disconnected from authenticating user root 188.119.65.177 port 36192 [preauth]
+Dec  7 01:17:01 gitlab-instance-1 CRON[1958941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 01:17:01 gitlab-instance-1 CRON[1958941]: pam_unix(cron:session): session closed for user root
+Dec  7 01:17:05 gitlab-instance-1 sshd[1958945]: Invalid user  from 106.75.223.50 port 7574
+Dec  7 01:17:05 gitlab-instance-1 sshd[1958944]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 01:17:18 gitlab-instance-1 sshd[1958945]: Connection closed by invalid user  106.75.223.50 port 7574 [preauth]
+Dec  7 01:19:56 gitlab-instance-1 sshd[1959633]: Received disconnect from 188.119.65.177 port 43568:11: Bye Bye [preauth]
+Dec  7 01:19:56 gitlab-instance-1 sshd[1959633]: Disconnected from authenticating user root 188.119.65.177 port 43568 [preauth]
+Dec  7 01:22:58 gitlab-instance-1 sshd[1959930]: Received disconnect from 188.119.65.177 port 46622:11: Bye Bye [preauth]
+Dec  7 01:22:58 gitlab-instance-1 sshd[1959930]: Disconnected from authenticating user root 188.119.65.177 port 46622 [preauth]
+Dec  7 01:23:34 gitlab-instance-1 sshd[1959974]: Connection closed by 162.142.125.58 port 37802 [preauth]
+Dec  7 01:26:05 gitlab-instance-1 sshd[1960252]: Received disconnect from 188.119.65.177 port 53340:11: Bye Bye [preauth]
+Dec  7 01:26:05 gitlab-instance-1 sshd[1960252]: Disconnected from authenticating user root 188.119.65.177 port 53340 [preauth]
+Dec  7 01:28:57 gitlab-instance-1 sshd[1960537]: Invalid user admin from 176.111.173.237 port 56620
+Dec  7 01:28:58 gitlab-instance-1 sshd[1960537]: Received disconnect from 176.111.173.237 port 56620:11: Bye Bye [preauth]
+Dec  7 01:28:58 gitlab-instance-1 sshd[1960537]: Disconnected from invalid user admin 176.111.173.237 port 56620 [preauth]
+Dec  7 01:29:21 gitlab-instance-1 sshd[1960563]: Received disconnect from 188.119.65.177 port 59058:11: Bye Bye [preauth]
+Dec  7 01:29:21 gitlab-instance-1 sshd[1960563]: Disconnected from authenticating user root 188.119.65.177 port 59058 [preauth]
+Dec  7 01:32:36 gitlab-instance-1 sshd[1960890]: Received disconnect from 188.119.65.177 port 37628:11: Bye Bye [preauth]
+Dec  7 01:32:36 gitlab-instance-1 sshd[1960890]: Disconnected from authenticating user root 188.119.65.177 port 37628 [preauth]
+Dec  7 01:35:44 gitlab-instance-1 sshd[1961202]: Received disconnect from 188.119.65.177 port 40916:11: Bye Bye [preauth]
+Dec  7 01:35:44 gitlab-instance-1 sshd[1961202]: Disconnected from authenticating user root 188.119.65.177 port 40916 [preauth]
+Dec  7 01:37:37 gitlab-instance-1 sshd[1961394]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 01:37:50 gitlab-instance-1 sshd[1961416]: Unable to negotiate with 141.98.10.63 port 44196: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 01:39:00 gitlab-instance-1 sshd[1961522]: Received disconnect from 188.119.65.177 port 47320:11: Bye Bye [preauth]
+Dec  7 01:39:00 gitlab-instance-1 sshd[1961522]: Disconnected from authenticating user root 188.119.65.177 port 47320 [preauth]
+Dec  7 01:40:39 gitlab-instance-1 sshd[1961703]: Invalid user admin from 176.111.173.237 port 23138
+Dec  7 01:40:39 gitlab-instance-1 sshd[1961703]: Received disconnect from 176.111.173.237 port 23138:11: Bye Bye [preauth]
+Dec  7 01:40:39 gitlab-instance-1 sshd[1961703]: Disconnected from invalid user admin 176.111.173.237 port 23138 [preauth]
+Dec  7 01:42:17 gitlab-instance-1 sshd[1961860]: Received disconnect from 188.119.65.177 port 54118:11: Bye Bye [preauth]
+Dec  7 01:42:17 gitlab-instance-1 sshd[1961860]: Disconnected from authenticating user root 188.119.65.177 port 54118 [preauth]
+Dec  7 01:45:27 gitlab-instance-1 sshd[1962159]: Received disconnect from 188.119.65.177 port 60710:11: Bye Bye [preauth]
+Dec  7 01:45:27 gitlab-instance-1 sshd[1962159]: Disconnected from authenticating user root 188.119.65.177 port 60710 [preauth]
+Dec  7 01:48:35 gitlab-instance-1 sshd[1962468]: Received disconnect from 188.119.65.177 port 38880:11: Bye Bye [preauth]
+Dec  7 01:48:35 gitlab-instance-1 sshd[1962468]: Disconnected from authenticating user root 188.119.65.177 port 38880 [preauth]
+Dec  7 01:51:49 gitlab-instance-1 sshd[1962792]: Received disconnect from 188.119.65.177 port 47990:11: Bye Bye [preauth]
+Dec  7 01:51:49 gitlab-instance-1 sshd[1962792]: Disconnected from authenticating user root 188.119.65.177 port 47990 [preauth]
+Dec  7 01:51:50 gitlab-instance-1 sshd[1962806]: Invalid user admin from 176.111.173.237 port 62428
+Dec  7 01:51:50 gitlab-instance-1 sshd[1962806]: Received disconnect from 176.111.173.237 port 62428:11: Bye Bye [preauth]
+Dec  7 01:51:50 gitlab-instance-1 sshd[1962806]: Disconnected from invalid user admin 176.111.173.237 port 62428 [preauth]
+Dec  7 01:53:50 gitlab-instance-1 sshd[1963000]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 01:54:43 gitlab-instance-1 sshd[1963088]: Unable to negotiate with 209.141.53.74 port 51350: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 01:54:52 gitlab-instance-1 sshd[1963094]: Received disconnect from 188.119.65.177 port 53076:11: Bye Bye [preauth]
+Dec  7 01:54:52 gitlab-instance-1 sshd[1963094]: Disconnected from authenticating user root 188.119.65.177 port 53076 [preauth]
+Dec  7 01:57:52 gitlab-instance-1 sshd[1963384]: Received disconnect from 188.119.65.177 port 57352:11: Bye Bye [preauth]
+Dec  7 01:57:52 gitlab-instance-1 sshd[1963384]: Disconnected from authenticating user root 188.119.65.177 port 57352 [preauth]
+Dec  7 02:00:58 gitlab-instance-1 sshd[1963693]: Received disconnect from 188.119.65.177 port 33216:11: Bye Bye [preauth]
+Dec  7 02:00:58 gitlab-instance-1 sshd[1963693]: Disconnected from authenticating user root 188.119.65.177 port 33216 [preauth]
+Dec  7 02:04:10 gitlab-instance-1 sshd[1964017]: Received disconnect from 188.119.65.177 port 38372:11: Bye Bye [preauth]
+Dec  7 02:04:10 gitlab-instance-1 sshd[1964017]: Disconnected from authenticating user root 188.119.65.177 port 38372 [preauth]
+Dec  7 02:04:47 gitlab-instance-1 sshd[1964090]: Invalid user admin from 92.255.85.237 port 61682
+Dec  7 02:04:48 gitlab-instance-1 sshd[1964090]: Received disconnect from 92.255.85.237 port 61682:11: Bye Bye [preauth]
+Dec  7 02:04:48 gitlab-instance-1 sshd[1964090]: Disconnected from invalid user admin 92.255.85.237 port 61682 [preauth]
+Dec  7 02:07:07 gitlab-instance-1 sshd[1964351]: Received disconnect from 188.119.65.177 port 41014:11: Bye Bye [preauth]
+Dec  7 02:07:07 gitlab-instance-1 sshd[1964351]: Disconnected from authenticating user root 188.119.65.177 port 41014 [preauth]
+Dec  7 02:10:14 gitlab-instance-1 sshd[1964642]: Received disconnect from 188.119.65.177 port 45304:11: Bye Bye [preauth]
+Dec  7 02:10:14 gitlab-instance-1 sshd[1964642]: Disconnected from authenticating user root 188.119.65.177 port 45304 [preauth]
+Dec  7 02:13:15 gitlab-instance-1 sshd[1964938]: Received disconnect from 188.119.65.177 port 47968:11: Bye Bye [preauth]
+Dec  7 02:13:15 gitlab-instance-1 sshd[1964938]: Disconnected from authenticating user root 188.119.65.177 port 47968 [preauth]
+Dec  7 02:16:20 gitlab-instance-1 sshd[1965258]: Received disconnect from 188.119.65.177 port 51560:11: Bye Bye [preauth]
+Dec  7 02:16:20 gitlab-instance-1 sshd[1965258]: Disconnected from authenticating user root 188.119.65.177 port 51560 [preauth]
+Dec  7 02:16:41 gitlab-instance-1 sshd[1965299]: Invalid user admin from 92.255.85.37 port 38048
+Dec  7 02:16:41 gitlab-instance-1 sshd[1965299]: Received disconnect from 92.255.85.37 port 38048:11: Bye Bye [preauth]
+Dec  7 02:16:41 gitlab-instance-1 sshd[1965299]: Disconnected from invalid user admin 92.255.85.37 port 38048 [preauth]
+Dec  7 02:17:01 gitlab-instance-1 CRON[1965335]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 02:17:01 gitlab-instance-1 CRON[1965335]: pam_unix(cron:session): session closed for user root
+Dec  7 02:19:23 gitlab-instance-1 sshd[1965558]: Received disconnect from 188.119.65.177 port 54580:11: Bye Bye [preauth]
+Dec  7 02:19:23 gitlab-instance-1 sshd[1965558]: Disconnected from authenticating user root 188.119.65.177 port 54580 [preauth]
+Dec  7 02:22:28 gitlab-instance-1 sshd[1965852]: Received disconnect from 188.119.65.177 port 59862:11: Bye Bye [preauth]
+Dec  7 02:22:28 gitlab-instance-1 sshd[1965852]: Disconnected from authenticating user root 188.119.65.177 port 59862 [preauth]
+Dec  7 02:25:31 gitlab-instance-1 sshd[1966154]: Received disconnect from 188.119.65.177 port 33634:11: Bye Bye [preauth]
+Dec  7 02:25:31 gitlab-instance-1 sshd[1966154]: Disconnected from authenticating user root 188.119.65.177 port 33634 [preauth]
+Dec  7 02:28:41 gitlab-instance-1 sshd[1966457]: Received disconnect from 188.119.65.177 port 36722:11: Bye Bye [preauth]
+Dec  7 02:28:41 gitlab-instance-1 sshd[1966457]: Disconnected from authenticating user root 188.119.65.177 port 36722 [preauth]
+Dec  7 02:30:09 gitlab-instance-1 sshd[1966603]: Invalid user admin from 92.255.85.237 port 57754
+Dec  7 02:30:09 gitlab-instance-1 sshd[1966603]: Received disconnect from 92.255.85.237 port 57754:11: Bye Bye [preauth]
+Dec  7 02:30:09 gitlab-instance-1 sshd[1966603]: Disconnected from invalid user admin 92.255.85.237 port 57754 [preauth]
+Dec  7 02:44:15 gitlab-instance-1 sshd[1968006]: error: kex protocol error: type 30 seq 1 [preauth]
+Dec  7 02:44:34 gitlab-instance-1 sshd[1968006]: Connection closed by 183.136.226.4 port 7222 [preauth]
+Dec  7 02:45:19 gitlab-instance-1 sshd[1968107]: Invalid user admin from 176.111.173.237 port 51606
+Dec  7 02:45:19 gitlab-instance-1 sshd[1968107]: Received disconnect from 176.111.173.237 port 51606:11: Bye Bye [preauth]
+Dec  7 02:45:19 gitlab-instance-1 sshd[1968107]: Disconnected from invalid user admin 176.111.173.237 port 51606 [preauth]
+Dec  7 02:53:06 gitlab-instance-1 sshd[1968861]: Invalid user  from 65.49.20.69 port 31616
+Dec  7 02:53:11 gitlab-instance-1 sshd[1968861]: Connection closed by invalid user  65.49.20.69 port 31616 [preauth]
+Dec  7 02:55:17 gitlab-instance-1 sshd[1969070]: Invalid user admin from 92.255.85.37 port 19104
+Dec  7 02:55:17 gitlab-instance-1 sshd[1969070]: Received disconnect from 92.255.85.37 port 19104:11: Bye Bye [preauth]
+Dec  7 02:55:17 gitlab-instance-1 sshd[1969070]: Disconnected from invalid user admin 92.255.85.37 port 19104 [preauth]
+Dec  7 03:01:20 gitlab-instance-1 sshd[1969676]: Invalid user pi from 216.8.186.235 port 47056
+Dec  7 03:01:20 gitlab-instance-1 sshd[1969676]: Connection closed by invalid user pi 216.8.186.235 port 47056 [preauth]
+Dec  7 03:01:21 gitlab-instance-1 sshd[1969678]: Invalid user pi from 216.8.186.235 port 47064
+Dec  7 03:01:21 gitlab-instance-1 sshd[1969678]: Connection closed by invalid user pi 216.8.186.235 port 47064 [preauth]
+Dec  7 03:10:01 gitlab-instance-1 CRON[1970534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 03:10:01 gitlab-instance-1 CRON[1970534]: pam_unix(cron:session): session closed for user root
+Dec  7 03:17:01 gitlab-instance-1 CRON[1971211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 03:17:01 gitlab-instance-1 CRON[1971211]: pam_unix(cron:session): session closed for user root
+Dec  7 03:20:31 gitlab-instance-1 sshd[1971546]: Invalid user admin from 92.255.85.237 port 34136
+Dec  7 03:20:31 gitlab-instance-1 sshd[1971546]: Received disconnect from 92.255.85.237 port 34136:11: Bye Bye [preauth]
+Dec  7 03:20:31 gitlab-instance-1 sshd[1971546]: Disconnected from invalid user admin 92.255.85.237 port 34136 [preauth]
+Dec  7 03:23:59 gitlab-instance-1 sshd[1971907]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 03:24:47 gitlab-instance-1 sshd[1971981]: Unable to negotiate with 205.185.115.39 port 48238: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:32:38 gitlab-instance-1 sshd[1972743]: Invalid user admin from 176.111.173.237 port 30016
+Dec  7 03:32:38 gitlab-instance-1 sshd[1972743]: Received disconnect from 176.111.173.237 port 30016:11: Bye Bye [preauth]
+Dec  7 03:32:38 gitlab-instance-1 sshd[1972743]: Disconnected from invalid user admin 176.111.173.237 port 30016 [preauth]
+Dec  7 03:34:43 gitlab-instance-1 sshd[1972957]: Invalid user admin from 92.255.85.237 port 23752
+Dec  7 03:34:43 gitlab-instance-1 sshd[1972957]: Received disconnect from 92.255.85.237 port 23752:11: Bye Bye [preauth]
+Dec  7 03:34:43 gitlab-instance-1 sshd[1972957]: Disconnected from invalid user admin 92.255.85.237 port 23752 [preauth]
+Dec  7 03:37:28 gitlab-instance-1 sshd[1973220]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 03:37:32 gitlab-instance-1 sshd[1973225]: Unable to negotiate with 134.209.205.40 port 50766: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:38:02 gitlab-instance-1 sshd[1973275]: Unable to negotiate with 134.209.205.40 port 58218: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:38:31 gitlab-instance-1 sshd[1973325]: Unable to negotiate with 134.209.205.40 port 37460: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:39:00 gitlab-instance-1 sshd[1973370]: Unable to negotiate with 134.209.205.40 port 44950: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:39:28 gitlab-instance-1 sshd[1973421]: Unable to negotiate with 134.209.205.40 port 52398: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:39:55 gitlab-instance-1 sshd[1973469]: Unable to negotiate with 134.209.205.40 port 59922: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:40:22 gitlab-instance-1 sshd[1973514]: Unable to negotiate with 134.209.205.40 port 39118: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:40:49 gitlab-instance-1 sshd[1973553]: Unable to negotiate with 134.209.205.40 port 46564: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:41:16 gitlab-instance-1 sshd[1973598]: Unable to negotiate with 134.209.205.40 port 54030: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:41:43 gitlab-instance-1 sshd[1973646]: Unable to negotiate with 134.209.205.40 port 33282: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:42:10 gitlab-instance-1 sshd[1973709]: Unable to negotiate with 134.209.205.40 port 40776: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:42:38 gitlab-instance-1 sshd[1973762]: Unable to negotiate with 134.209.205.40 port 48220: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:43:05 gitlab-instance-1 sshd[1973806]: Unable to negotiate with 134.209.205.40 port 55678: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:43:32 gitlab-instance-1 sshd[1973851]: Unable to negotiate with 134.209.205.40 port 34912: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:43:59 gitlab-instance-1 sshd[1973898]: Unable to negotiate with 134.209.205.40 port 42398: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:44:26 gitlab-instance-1 sshd[1973944]: Unable to negotiate with 134.209.205.40 port 49838: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:44:52 gitlab-instance-1 sshd[1973987]: Unable to negotiate with 134.209.205.40 port 57348: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:45:19 gitlab-instance-1 sshd[1974032]: Unable to negotiate with 134.209.205.40 port 36594: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:45:46 gitlab-instance-1 sshd[1974075]: Unable to negotiate with 134.209.205.40 port 44150: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:46:12 gitlab-instance-1 sshd[1974116]: Unable to negotiate with 134.209.205.40 port 51492: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:46:39 gitlab-instance-1 sshd[1974160]: Unable to negotiate with 134.209.205.40 port 59038: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:47:06 gitlab-instance-1 sshd[1974204]: Unable to negotiate with 134.209.205.40 port 38244: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:47:32 gitlab-instance-1 sshd[1974250]: Unable to negotiate with 134.209.205.40 port 45684: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:47:58 gitlab-instance-1 sshd[1974293]: Unable to negotiate with 134.209.205.40 port 53190: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:48:24 gitlab-instance-1 sshd[1974337]: Unable to negotiate with 134.209.205.40 port 60650: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:48:29 gitlab-instance-1 sshd[1974347]: Invalid user admin from 92.255.85.37 port 18798
+Dec  7 03:48:29 gitlab-instance-1 sshd[1974347]: Received disconnect from 92.255.85.37 port 18798:11: Bye Bye [preauth]
+Dec  7 03:48:29 gitlab-instance-1 sshd[1974347]: Disconnected from invalid user admin 92.255.85.37 port 18798 [preauth]
+Dec  7 03:48:50 gitlab-instance-1 sshd[1974381]: Unable to negotiate with 134.209.205.40 port 39902: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:49:17 gitlab-instance-1 sshd[1974427]: Unable to negotiate with 134.209.205.40 port 47366: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:49:44 gitlab-instance-1 sshd[1974471]: Unable to negotiate with 134.209.205.40 port 54832: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:50:11 gitlab-instance-1 sshd[1974520]: Unable to negotiate with 134.209.205.40 port 34026: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:50:39 gitlab-instance-1 sshd[1974564]: Unable to negotiate with 134.209.205.40 port 41544: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 03:51:06 gitlab-instance-1 sshd[1974606]: Unable to negotiate with 134.209.205.40 port 49012: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 04:01:46 gitlab-instance-1 sshd[1975665]: Invalid user admin from 176.111.173.237 port 45926
+Dec  7 04:01:46 gitlab-instance-1 sshd[1975665]: Received disconnect from 176.111.173.237 port 45926:11: Bye Bye [preauth]
+Dec  7 04:01:46 gitlab-instance-1 sshd[1975665]: Disconnected from invalid user admin 176.111.173.237 port 45926 [preauth]
+Dec  7 04:05:37 gitlab-instance-1 sshd[1976036]: Connection closed by authenticating user root 171.25.193.25 port 13249 [preauth]
+Dec  7 04:12:56 gitlab-instance-1 sshd[1976762]: Invalid user admin from 92.255.85.237 port 51726
+Dec  7 04:12:56 gitlab-instance-1 sshd[1976762]: Received disconnect from 92.255.85.237 port 51726:11: Bye Bye [preauth]
+Dec  7 04:12:56 gitlab-instance-1 sshd[1976762]: Disconnected from invalid user admin 92.255.85.237 port 51726 [preauth]
+Dec  7 04:17:01 gitlab-instance-1 CRON[1977161]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 04:17:01 gitlab-instance-1 CRON[1977161]: pam_unix(cron:session): session closed for user root
+Dec  7 04:26:19 gitlab-instance-1 sshd[1978065]: Invalid user admin from 92.255.85.37 port 32258
+Dec  7 04:26:19 gitlab-instance-1 sshd[1978065]: Received disconnect from 92.255.85.37 port 32258:11: Bye Bye [preauth]
+Dec  7 04:26:19 gitlab-instance-1 sshd[1978065]: Disconnected from invalid user admin 92.255.85.37 port 32258 [preauth]
+Dec  7 04:38:16 gitlab-instance-1 sshd[1979238]: Invalid user admin from 92.255.85.37 port 31214
+Dec  7 04:38:16 gitlab-instance-1 sshd[1979238]: Received disconnect from 92.255.85.37 port 31214:11: Bye Bye [preauth]
+Dec  7 04:38:16 gitlab-instance-1 sshd[1979238]: Disconnected from invalid user admin 92.255.85.37 port 31214 [preauth]
+Dec  7 04:52:56 gitlab-instance-1 sshd[1980660]: Invalid user pi from 71.218.134.121 port 46302
+Dec  7 04:52:56 gitlab-instance-1 sshd[1980659]: Invalid user pi from 71.218.134.121 port 46300
+Dec  7 04:52:56 gitlab-instance-1 sshd[1980660]: Connection closed by invalid user pi 71.218.134.121 port 46302 [preauth]
+Dec  7 04:52:56 gitlab-instance-1 sshd[1980659]: Connection closed by invalid user pi 71.218.134.121 port 46300 [preauth]
+Dec  7 04:53:35 gitlab-instance-1 sshd[1980726]: Invalid user admin from 92.255.85.37 port 53364
+Dec  7 04:53:35 gitlab-instance-1 sshd[1980726]: Received disconnect from 92.255.85.37 port 53364:11: Bye Bye [preauth]
+Dec  7 04:53:35 gitlab-instance-1 sshd[1980726]: Disconnected from invalid user admin 92.255.85.37 port 53364 [preauth]
+Dec  7 05:04:18 gitlab-instance-1 sshd[1981784]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 05:05:23 gitlab-instance-1 sshd[1981899]: Invalid user admin from 92.255.85.37 port 50674
+Dec  7 05:05:23 gitlab-instance-1 sshd[1981899]: Received disconnect from 92.255.85.37 port 50674:11: Bye Bye [preauth]
+Dec  7 05:05:23 gitlab-instance-1 sshd[1981899]: Disconnected from invalid user admin 92.255.85.37 port 50674 [preauth]
+Dec  7 05:17:01 gitlab-instance-1 CRON[1983032]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 05:17:01 gitlab-instance-1 CRON[1983032]: pam_unix(cron:session): session closed for user root
+Dec  7 05:17:54 gitlab-instance-1 sshd[1983120]: Invalid user admin from 92.255.85.37 port 42826
+Dec  7 05:17:54 gitlab-instance-1 sshd[1983120]: Received disconnect from 92.255.85.37 port 42826:11: Bye Bye [preauth]
+Dec  7 05:17:54 gitlab-instance-1 sshd[1983120]: Disconnected from invalid user admin 92.255.85.37 port 42826 [preauth]
+Dec  7 05:31:38 gitlab-instance-1 sshd[1984463]: Invalid user admin from 176.111.173.237 port 63340
+Dec  7 05:31:38 gitlab-instance-1 sshd[1984463]: Received disconnect from 176.111.173.237 port 63340:11: Bye Bye [preauth]
+Dec  7 05:31:38 gitlab-instance-1 sshd[1984463]: Disconnected from invalid user admin 176.111.173.237 port 63340 [preauth]
+Dec  7 05:56:13 gitlab-instance-1 sshd[1986867]: Invalid user admin from 92.255.85.37 port 47444
+Dec  7 05:56:13 gitlab-instance-1 sshd[1986867]: Received disconnect from 92.255.85.37 port 47444:11: Bye Bye [preauth]
+Dec  7 05:56:13 gitlab-instance-1 sshd[1986867]: Disconnected from invalid user admin 92.255.85.37 port 47444 [preauth]
+Dec  7 06:04:55 gitlab-instance-1 sshd[1987724]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 06:05:06 gitlab-instance-1 sshd[1987741]: Unable to negotiate with 141.98.10.63 port 34606: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 06:08:06 gitlab-instance-1 sshd[1988042]: Invalid user admin from 176.111.173.237 port 7520
+Dec  7 06:08:07 gitlab-instance-1 sshd[1988042]: Received disconnect from 176.111.173.237 port 7520:11: Bye Bye [preauth]
+Dec  7 06:08:07 gitlab-instance-1 sshd[1988042]: Disconnected from invalid user admin 176.111.173.237 port 7520 [preauth]
+Dec  7 06:10:24 gitlab-instance-1 sshd[1988264]: Invalid user admin from 92.255.85.37 port 17276
+Dec  7 06:10:25 gitlab-instance-1 sshd[1988264]: Received disconnect from 92.255.85.37 port 17276:11: Bye Bye [preauth]
+Dec  7 06:10:25 gitlab-instance-1 sshd[1988264]: Disconnected from invalid user admin 92.255.85.37 port 17276 [preauth]
+Dec  7 06:17:01 gitlab-instance-1 CRON[1988922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 06:17:01 gitlab-instance-1 CRON[1988922]: pam_unix(cron:session): session closed for user root
+Dec  7 06:24:59 gitlab-instance-1 sshd[1989692]: Invalid user admin from 176.111.173.237 port 50560
+Dec  7 06:24:59 gitlab-instance-1 sshd[1989692]: Received disconnect from 176.111.173.237 port 50560:11: Bye Bye [preauth]
+Dec  7 06:24:59 gitlab-instance-1 sshd[1989692]: Disconnected from invalid user admin 176.111.173.237 port 50560 [preauth]
+Dec  7 06:25:01 gitlab-instance-1 CRON[1989702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 06:25:02 gitlab-instance-1 CRON[1989702]: pam_unix(cron:session): session closed for user root
+Dec  7 06:27:01 gitlab-instance-1 sshd[1989962]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 06:29:06 gitlab-instance-1 sshd[1990161]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 06:36:40 gitlab-instance-1 sshd[1990908]: Invalid user admin from 92.255.85.237 port 46478
+Dec  7 06:36:41 gitlab-instance-1 sshd[1990908]: Received disconnect from 92.255.85.237 port 46478:11: Bye Bye [preauth]
+Dec  7 06:36:41 gitlab-instance-1 sshd[1990908]: Disconnected from invalid user admin 92.255.85.237 port 46478 [preauth]
+Dec  7 06:44:54 gitlab-instance-1 sshd[1991705]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 06:45:51 gitlab-instance-1 sshd[1991798]: Unable to negotiate with 23.183.81.54 port 40958: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 06:47:06 gitlab-instance-1 sshd[1991938]: Unable to negotiate with 23.183.81.54 port 49370: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 06:48:27 gitlab-instance-1 sshd[1992071]: Invalid user admin from 92.255.85.237 port 35004
+Dec  7 06:48:27 gitlab-instance-1 sshd[1992071]: Received disconnect from 92.255.85.237 port 35004:11: Bye Bye [preauth]
+Dec  7 06:48:27 gitlab-instance-1 sshd[1992071]: Disconnected from invalid user admin 92.255.85.237 port 35004 [preauth]
+Dec  7 06:51:11 gitlab-instance-1 sshd[1992326]: Connection closed by 167.94.138.59 port 47470 [preauth]
+Dec  7 07:03:36 gitlab-instance-1 sshd[1993648]: Invalid user admin from 176.111.173.237 port 12058
+Dec  7 07:03:36 gitlab-instance-1 sshd[1993648]: Received disconnect from 176.111.173.237 port 12058:11: Bye Bye [preauth]
+Dec  7 07:03:36 gitlab-instance-1 sshd[1993648]: Disconnected from invalid user admin 176.111.173.237 port 12058 [preauth]
+Dec  7 07:14:39 gitlab-instance-1 sshd[1994724]: Invalid user admin from 92.255.85.37 port 56604
+Dec  7 07:14:39 gitlab-instance-1 sshd[1994724]: Received disconnect from 92.255.85.37 port 56604:11: Bye Bye [preauth]
+Dec  7 07:14:39 gitlab-instance-1 sshd[1994724]: Disconnected from invalid user admin 92.255.85.37 port 56604 [preauth]
+Dec  7 07:17:01 gitlab-instance-1 CRON[1994955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 07:17:01 gitlab-instance-1 CRON[1994955]: pam_unix(cron:session): session closed for user root
+Dec  7 07:28:20 gitlab-instance-1 sshd[1996061]: Invalid user admin from 92.255.85.37 port 56988
+Dec  7 07:28:20 gitlab-instance-1 sshd[1996061]: Received disconnect from 92.255.85.37 port 56988:11: Bye Bye [preauth]
+Dec  7 07:28:20 gitlab-instance-1 sshd[1996061]: Disconnected from invalid user admin 92.255.85.37 port 56988 [preauth]
+Dec  7 07:29:04 gitlab-instance-1 sshd[1996129]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 07:29:49 gitlab-instance-1 sshd[1996201]: Unable to negotiate with 23.183.81.136 port 40738: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 07:38:11 gitlab-instance-1 sshd[1997016]: Connection closed by 157.245.252.5 port 52390 [preauth]
+Dec  7 07:40:05 gitlab-instance-1 sshd[1997205]: Invalid user admin from 92.255.85.37 port 37204
+Dec  7 07:40:05 gitlab-instance-1 sshd[1997205]: Received disconnect from 92.255.85.37 port 37204:11: Bye Bye [preauth]
+Dec  7 07:40:05 gitlab-instance-1 sshd[1997205]: Disconnected from invalid user admin 92.255.85.37 port 37204 [preauth]
+Dec  7 07:46:46 gitlab-instance-1 sshd[1997852]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 07:48:20 gitlab-instance-1 sshd[1998020]: Unable to negotiate with 23.183.81.54 port 53024: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 07:49:37 gitlab-instance-1 sshd[1998144]: Unable to negotiate with 23.183.81.54 port 34672: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 07:54:49 gitlab-instance-1 sshd[1998638]: Invalid user admin from 176.111.173.237 port 10224
+Dec  7 07:54:50 gitlab-instance-1 sshd[1998638]: Received disconnect from 176.111.173.237 port 10224:11: Bye Bye [preauth]
+Dec  7 07:54:50 gitlab-instance-1 sshd[1998638]: Disconnected from invalid user admin 176.111.173.237 port 10224 [preauth]
+Dec  7 08:07:52 gitlab-instance-1 sshd[1999929]: Invalid user admin from 92.255.85.37 port 61224
+Dec  7 08:07:52 gitlab-instance-1 sshd[1999929]: Received disconnect from 92.255.85.37 port 61224:11: Bye Bye [preauth]
+Dec  7 08:07:52 gitlab-instance-1 sshd[1999929]: Disconnected from invalid user admin 92.255.85.37 port 61224 [preauth]
+Dec  7 08:17:01 gitlab-instance-1 CRON[2000834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 08:17:01 gitlab-instance-1 CRON[2000834]: pam_unix(cron:session): session closed for user root
+Dec  7 08:19:17 gitlab-instance-1 sshd[2001075]: Invalid user admin from 92.255.85.37 port 25446
+Dec  7 08:19:17 gitlab-instance-1 sshd[2001075]: Received disconnect from 92.255.85.37 port 25446:11: Bye Bye [preauth]
+Dec  7 08:19:17 gitlab-instance-1 sshd[2001075]: Disconnected from invalid user admin 92.255.85.37 port 25446 [preauth]
+Dec  7 08:33:50 gitlab-instance-1 sshd[2002499]: Invalid user admin from 92.255.85.37 port 22298
+Dec  7 08:33:50 gitlab-instance-1 sshd[2002499]: Received disconnect from 92.255.85.37 port 22298:11: Bye Bye [preauth]
+Dec  7 08:33:50 gitlab-instance-1 sshd[2002499]: Disconnected from invalid user admin 92.255.85.37 port 22298 [preauth]
+Dec  7 08:46:51 gitlab-instance-1 sshd[2003771]: Invalid user admin from 176.111.173.237 port 57538
+Dec  7 08:46:51 gitlab-instance-1 sshd[2003771]: Received disconnect from 176.111.173.237 port 57538:11: Bye Bye [preauth]
+Dec  7 08:46:51 gitlab-instance-1 sshd[2003771]: Disconnected from invalid user admin 176.111.173.237 port 57538 [preauth]
+Dec  7 08:53:15 gitlab-instance-1 sshd[2004399]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 08:54:57 gitlab-instance-1 sshd[2004562]: Unable to negotiate with 23.183.81.54 port 47672: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 08:55:15 gitlab-instance-1 sshd[2004586]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 08:55:36 gitlab-instance-1 sshd[2004618]: Unable to negotiate with 141.98.10.63 port 44538: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 08:56:12 gitlab-instance-1 sshd[2004684]: Unable to negotiate with 23.183.81.54 port 55046: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:04:23 gitlab-instance-1 sshd[2005495]: Invalid user pi from 104.12.4.16 port 56372
+Dec  7 09:04:23 gitlab-instance-1 sshd[2005495]: Connection closed by invalid user pi 104.12.4.16 port 56372 [preauth]
+Dec  7 09:04:23 gitlab-instance-1 sshd[2005497]: Invalid user pi from 104.12.4.16 port 56380
+Dec  7 09:04:23 gitlab-instance-1 sshd[2005497]: Connection closed by invalid user pi 104.12.4.16 port 56380 [preauth]
+Dec  7 09:09:08 gitlab-instance-1 sshd[2005970]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 09:09:28 gitlab-instance-1 sshd[2006005]: Unable to negotiate with 205.185.115.39 port 49468: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:10:47 gitlab-instance-1 sshd[2006130]: Invalid user admin from 92.255.85.237 port 51232
+Dec  7 09:10:47 gitlab-instance-1 sshd[2006130]: Received disconnect from 92.255.85.237 port 51232:11: Bye Bye [preauth]
+Dec  7 09:10:47 gitlab-instance-1 sshd[2006130]: Disconnected from invalid user admin 92.255.85.237 port 51232 [preauth]
+Dec  7 09:17:01 gitlab-instance-1 CRON[2006730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 09:17:01 gitlab-instance-1 CRON[2006730]: pam_unix(cron:session): session closed for user root
+Dec  7 09:21:34 gitlab-instance-1 sshd[2007191]: Invalid user admin from 176.111.173.237 port 10900
+Dec  7 09:21:34 gitlab-instance-1 sshd[2007191]: Received disconnect from 176.111.173.237 port 10900:11: Bye Bye [preauth]
+Dec  7 09:21:34 gitlab-instance-1 sshd[2007191]: Disconnected from invalid user admin 176.111.173.237 port 10900 [preauth]
+Dec  7 09:23:46 gitlab-instance-1 sshd[2007405]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 09:23:56 gitlab-instance-1 sshd[2007419]: Invalid user admin from 92.255.85.37 port 34212
+Dec  7 09:23:56 gitlab-instance-1 sshd[2007419]: Received disconnect from 92.255.85.37 port 34212:11: Bye Bye [preauth]
+Dec  7 09:23:56 gitlab-instance-1 sshd[2007419]: Disconnected from invalid user admin 92.255.85.37 port 34212 [preauth]
+Dec  7 09:23:58 gitlab-instance-1 sshd[2007427]: Unable to negotiate with 209.141.34.220 port 47736: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:27:42 gitlab-instance-1 sshd[2007776]: Connection closed by authenticating user root 171.25.193.25 port 36713 [preauth]
+Dec  7 09:27:49 gitlab-instance-1 sshd[2007797]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 09:40:12 gitlab-instance-1 sshd[2009002]: Invalid user admin from 92.255.85.237 port 40718
+Dec  7 09:40:12 gitlab-instance-1 sshd[2009002]: Received disconnect from 92.255.85.237 port 40718:11: Bye Bye [preauth]
+Dec  7 09:40:12 gitlab-instance-1 sshd[2009002]: Disconnected from invalid user admin 92.255.85.237 port 40718 [preauth]
+Dec  7 09:50:35 gitlab-instance-1 sshd[2010019]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 09:51:01 gitlab-instance-1 sshd[2010063]: Unable to negotiate with 167.71.10.210 port 57744: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:51:34 gitlab-instance-1 sshd[2010118]: Unable to negotiate with 167.71.10.210 port 37724: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:52:07 gitlab-instance-1 sshd[2010173]: Unable to negotiate with 167.71.10.210 port 45846: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:52:41 gitlab-instance-1 sshd[2010228]: Unable to negotiate with 167.71.10.210 port 54020: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:52:45 gitlab-instance-1 sshd[2010239]: Invalid user admin from 176.111.173.237 port 58212
+Dec  7 09:52:46 gitlab-instance-1 sshd[2010239]: Received disconnect from 176.111.173.237 port 58212:11: Bye Bye [preauth]
+Dec  7 09:52:46 gitlab-instance-1 sshd[2010239]: Disconnected from invalid user admin 176.111.173.237 port 58212 [preauth]
+Dec  7 09:53:14 gitlab-instance-1 sshd[2010284]: Unable to negotiate with 167.71.10.210 port 33928: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:53:27 gitlab-instance-1 sshd[2010311]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 09:53:34 gitlab-instance-1 sshd[2010320]: Unable to negotiate with 23.183.81.249 port 50862: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:53:46 gitlab-instance-1 sshd[2010342]: Unable to negotiate with 167.71.10.210 port 42108: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:54:17 gitlab-instance-1 sshd[2010397]: Unable to negotiate with 167.71.10.210 port 50242: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:54:49 gitlab-instance-1 sshd[2010449]: Unable to negotiate with 167.71.10.210 port 58350: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:55:22 gitlab-instance-1 sshd[2010505]: Unable to negotiate with 167.71.10.210 port 38310: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:55:53 gitlab-instance-1 sshd[2010561]: Unable to negotiate with 167.71.10.210 port 46476: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:56:23 gitlab-instance-1 sshd[2010612]: Unable to negotiate with 167.71.10.210 port 54604: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:56:55 gitlab-instance-1 sshd[2010666]: Unable to negotiate with 167.71.10.210 port 34534: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:57:27 gitlab-instance-1 sshd[2010722]: Unable to negotiate with 167.71.10.210 port 42700: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:57:58 gitlab-instance-1 sshd[2010780]: Unable to negotiate with 167.71.10.210 port 50884: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:58:29 gitlab-instance-1 sshd[2010832]: Unable to negotiate with 167.71.10.210 port 58976: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:58:53 gitlab-instance-1 sshd[2010875]: Connection closed by 54.242.112.162 port 52792 [preauth]
+Dec  7 09:59:01 gitlab-instance-1 sshd[2010893]: Unable to negotiate with 167.71.10.210 port 38950: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 09:59:32 gitlab-instance-1 sshd[2010943]: Unable to negotiate with 167.71.10.210 port 47052: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:00:03 gitlab-instance-1 sshd[2010992]: Unable to negotiate with 167.71.10.210 port 55236: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:00:34 gitlab-instance-1 sshd[2011053]: Unable to negotiate with 167.71.10.210 port 35120: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:01:05 gitlab-instance-1 sshd[2011119]: Unable to negotiate with 167.71.10.210 port 43294: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:01:35 gitlab-instance-1 sshd[2011164]: Unable to negotiate with 167.71.10.210 port 51498: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:02:05 gitlab-instance-1 sshd[2011214]: Unable to negotiate with 167.71.10.210 port 59604: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:02:12 gitlab-instance-1 sshd[2011225]: Invalid user admin from 92.255.85.37 port 39678
+Dec  7 10:02:12 gitlab-instance-1 sshd[2011225]: Received disconnect from 92.255.85.37 port 39678:11: Bye Bye [preauth]
+Dec  7 10:02:12 gitlab-instance-1 sshd[2011225]: Disconnected from invalid user admin 92.255.85.37 port 39678 [preauth]
+Dec  7 10:02:36 gitlab-instance-1 sshd[2011270]: Unable to negotiate with 167.71.10.210 port 39558: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:03:08 gitlab-instance-1 sshd[2011323]: Unable to negotiate with 167.71.10.210 port 47690: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:03:39 gitlab-instance-1 sshd[2011374]: Unable to negotiate with 167.71.10.210 port 55830: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:04:10 gitlab-instance-1 sshd[2011428]: Unable to negotiate with 167.71.10.210 port 35792: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:04:42 gitlab-instance-1 sshd[2011479]: Unable to negotiate with 167.71.10.210 port 43890: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:05:13 gitlab-instance-1 sshd[2011534]: Unable to negotiate with 167.71.10.210 port 52060: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:05:44 gitlab-instance-1 sshd[2011588]: Unable to negotiate with 167.71.10.210 port 60188: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:06:15 gitlab-instance-1 sshd[2011636]: Unable to negotiate with 167.71.10.210 port 40110: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:06:45 gitlab-instance-1 sshd[2011688]: Unable to negotiate with 167.71.10.210 port 48232: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 10:16:45 gitlab-instance-1 sshd[2012656]: Invalid user admin from 176.111.173.237 port 38540
+Dec  7 10:16:46 gitlab-instance-1 sshd[2012656]: Received disconnect from 176.111.173.237 port 38540:11: Bye Bye [preauth]
+Dec  7 10:16:46 gitlab-instance-1 sshd[2012656]: Disconnected from invalid user admin 176.111.173.237 port 38540 [preauth]
+Dec  7 10:17:01 gitlab-instance-1 CRON[2012686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 10:17:01 gitlab-instance-1 CRON[2012686]: pam_unix(cron:session): session closed for user root
+Dec  7 10:26:34 gitlab-instance-1 sshd[2013623]: error: kex_exchange_identification: client sent invalid protocol identifier "GET / HTTP/1.1"
+Dec  7 10:26:37 gitlab-instance-1 sshd[2013624]: Connection closed by authenticating user root 59.32.148.136 port 32994 [preauth]
+Dec  7 10:28:45 gitlab-instance-1 sshd[2013828]: Invalid user admin from 92.255.85.237 port 44618
+Dec  7 10:28:45 gitlab-instance-1 sshd[2013828]: Received disconnect from 92.255.85.237 port 44618:11: Bye Bye [preauth]
+Dec  7 10:28:45 gitlab-instance-1 sshd[2013828]: Disconnected from invalid user admin 92.255.85.237 port 44618 [preauth]
+Dec  7 10:54:14 gitlab-instance-1 sshd[2016281]: Invalid user admin from 92.255.85.237 port 16266
+Dec  7 10:54:14 gitlab-instance-1 sshd[2016281]: Received disconnect from 92.255.85.237 port 16266:11: Bye Bye [preauth]
+Dec  7 10:54:14 gitlab-instance-1 sshd[2016281]: Disconnected from invalid user admin 92.255.85.237 port 16266 [preauth]
+Dec  7 11:04:34 gitlab-instance-1 sshd[2017302]: Invalid user admin from 176.111.173.237 port 57064
+Dec  7 11:04:35 gitlab-instance-1 sshd[2017302]: Received disconnect from 176.111.173.237 port 57064:11: Bye Bye [preauth]
+Dec  7 11:04:35 gitlab-instance-1 sshd[2017302]: Disconnected from invalid user admin 176.111.173.237 port 57064 [preauth]
+Dec  7 11:06:54 gitlab-instance-1 sshd[2017552]: Invalid user admin from 92.255.85.237 port 28498
+Dec  7 11:06:54 gitlab-instance-1 sshd[2017552]: Received disconnect from 92.255.85.237 port 28498:11: Bye Bye [preauth]
+Dec  7 11:06:54 gitlab-instance-1 sshd[2017552]: Disconnected from invalid user admin 92.255.85.237 port 28498 [preauth]
+Dec  7 11:17:01 gitlab-instance-1 CRON[2018544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 11:17:01 gitlab-instance-1 CRON[2018544]: pam_unix(cron:session): session closed for user root
+Dec  7 11:17:40 gitlab-instance-1 sshd[2018611]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 11:18:30 gitlab-instance-1 sshd[2018690]: Unable to negotiate with 209.141.34.220 port 57232: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 11:25:20 gitlab-instance-1 sshd[2019344]: Invalid user admin from 176.111.173.237 port 41994
+Dec  7 11:25:20 gitlab-instance-1 sshd[2019344]: Received disconnect from 176.111.173.237 port 41994:11: Bye Bye [preauth]
+Dec  7 11:25:20 gitlab-instance-1 sshd[2019344]: Disconnected from invalid user admin 176.111.173.237 port 41994 [preauth]
+Dec  7 11:27:12 gitlab-instance-1 sshd[2019529]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 11:28:00 gitlab-instance-1 sshd[2019620]: Unable to negotiate with 209.141.53.74 port 51980: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 11:36:34 gitlab-instance-1 sshd[2020440]: Invalid user admin from 176.111.173.237 port 23058
+Dec  7 11:36:35 gitlab-instance-1 sshd[2020440]: Received disconnect from 176.111.173.237 port 23058:11: Bye Bye [preauth]
+Dec  7 11:36:35 gitlab-instance-1 sshd[2020440]: Disconnected from invalid user admin 176.111.173.237 port 23058 [preauth]
+Dec  7 11:45:27 gitlab-instance-1 sshd[2021319]: Invalid user admin from 92.255.85.237 port 19456
+Dec  7 11:45:27 gitlab-instance-1 sshd[2021319]: Received disconnect from 92.255.85.237 port 19456:11: Bye Bye [preauth]
+Dec  7 11:45:27 gitlab-instance-1 sshd[2021319]: Disconnected from invalid user admin 92.255.85.237 port 19456 [preauth]
+Dec  7 11:58:33 gitlab-instance-1 sshd[2022595]: Invalid user admin from 92.255.85.37 port 49696
+Dec  7 11:58:34 gitlab-instance-1 sshd[2022595]: Received disconnect from 92.255.85.37 port 49696:11: Bye Bye [preauth]
+Dec  7 11:58:34 gitlab-instance-1 sshd[2022595]: Disconnected from invalid user admin 92.255.85.37 port 49696 [preauth]
+Dec  7 12:01:29 gitlab-instance-1 sshd[2022899]: error: kex_exchange_identification: Connection closed by remote host
+Dec  7 12:01:44 gitlab-instance-1 sshd[2022923]: Unable to negotiate with 141.98.10.63 port 33704: no matching key exchange method found. Their offer: diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1 [preauth]
+Dec  7 12:12:07 gitlab-instance-1 sshd[2023928]: Invalid user admin from 92.255.85.237 port 23688
+Dec  7 12:12:07 gitlab-instance-1 sshd[2023928]: Received disconnect from 92.255.85.237 port 23688:11: Bye Bye [preauth]
+Dec  7 12:12:07 gitlab-instance-1 sshd[2023928]: Disconnected from invalid user admin 92.255.85.237 port 23688 [preauth]
+Dec  7 12:17:01 gitlab-instance-1 CRON[2024422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  7 12:17:01 gitlab-instance-1 CRON[2024422]: pam_unix(cron:session): session closed for user root
+Dec  7 12:38:27 gitlab-instance-1 sshd[2026509]: Invalid user admin from 92.255.85.237 port 29260
+Dec  7 12:38:27 gitlab-instance-1 sshd[2026509]: Received disconnect from 92.255.85.237 port 29260:11: Bye Bye [preauth]
+Dec  7 12:38:27 gitlab-instance-1 sshd[2026509]: Disconnected from invalid user admin 92.255.85.237 port 29260 [preauth]
+Dec  7 12:38:32 gitlab-instance-1 sshd[2026519]: Accepted publickey for zim from 160.152.52.62 port 49448 ssh2: RSA SHA256:iydjyp8bbgUWtTvuYDI1GCHKqnbIkowy2D1U7OnsMiY
+Dec  7 12:38:32 gitlab-instance-1 sshd[2026519]: pam_unix(sshd:session): session opened for user zim by (uid=0)
+Dec  7 12:38:32 gitlab-instance-1 systemd-logind[855]: New session 393 of user zim.
+Dec  7 12:38:32 gitlab-instance-1 systemd: pam_unix(systemd-user:session): session opened for user zim by (uid=0)
