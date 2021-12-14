@@ -23,5 +23,5 @@
 
 
 # Run cronjob every 5 mins for 30mins
-1-30/5 * * * * /bin/bash /vagrant/cronjob.sh
+1-30/5 * * * * /bin/bash /home/zim/get_system_stats.sh
 
