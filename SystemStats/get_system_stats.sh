@@ -11,10 +11,11 @@
 
 echo "Timestamp (Start): $(date)" >> system_stats.log
 echo >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
-echo 'PRINT GENERAL SYSTEM INFORMATION' >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo 'GENERAL SYSTEM INFORMATION' >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
 echo >> system_stats.log
+
 # Operating system
 uname -o >> system_stats.log
 # Kernel name
@@ -25,27 +26,36 @@ uname -v >> system_stats.log
 uname -r >> system_stats.log
 # Network node hostname
 uname -n >> system_stats.log
-# Machine name
-# uname -m >> system_stats.log
 # Processor type
 uname -p >> system_stats.log
+
+
 echo >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
-echo 'RUNNING PROCESSES LIST' >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo 'LIST OF RUNNING PROCESSES' >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
 echo >> system_stats.log
+
 # View the 50 most recent running processes
 echo "$(ps -ef | tail -n 50)" >> system_stats.log
+
 echo >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~~`' >> system_stats.log
-echo 'TCP NETWORK STATUS' >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
-netstat -nvr >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo 'NETWORK INTERFACES STATS' >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
 echo >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~' >> system_stats.log
-echo 'SYSTEM PERFORMANCE' >> system_stats.log
-echo '~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+
+# View network connections and interfaces stats
+netstat -stw >> system_stats.log
+
 echo >> system_stats.log
-iostat >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo 'CPU AND I/O STATUS REPORTS' >> system_stats.log
+echo '~~~~~~~~~~~~~~~~~~~~~~~~~~' >> system_stats.log
+echo >> system_stats.log
+
+# View cpu statistics and input/output statistics for devices and partitions,human readable
+iostat -cdh >> system_stats.log
+
 echo
 echo "Timestamp (End): $(date)" >> system_stats.log
